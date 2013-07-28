@@ -12,7 +12,7 @@ Zutaten:
  * 1 TL Zimt
  * 200g gemahlene Haselnüsse
  * 125g Mehl
- * 1 Kaffeelöffel Backpulver
+ * 1 Kaffeelöffel Backpulver (3g)
  * 6 Eischnee
  * 200g Schokolade (Zartbitter) gemahlen
 
