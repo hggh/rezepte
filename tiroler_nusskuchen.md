@@ -19,7 +19,7 @@ Zutaten:
 
 Zubereitung:
 -------------
- * Butter + Zucker + Eigelb schaumig rühren
+ * Butter + Zucker + Eigelb schaumig rühren (alles nach einander, langsam)
  * Gewürze (Salz, Zitrone, Zimt) dazu
  * Haselnüsse dazu
  * Mehl mit Backpulver vermischt dazu
@@ -30,7 +30,7 @@ Zubereitung:
 Backen:
 -------------
  * Kastenform mit Butter gefettet
- * 160° Umluft 50 - 60 Minuten
+ * 160° Umluft 50 - 60 Minuten (oft länger)
  * Zahnstocherprobe
 
 
