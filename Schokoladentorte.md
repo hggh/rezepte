@@ -33,3 +33,6 @@ Mit der Schokolade zusammen mit dem Kokosfett schmelzen und den Kuchen damit üb
 Am besten den Teig am Tag davor machen, im Backblech behalten über Nacht, dann am nächsten Tag
 aufschneiden und Glasur überziehen. 
 Am nächsten Tag ist dann der Kuchen essbar :)
+
+
+![Schokoladentorte](https://raw.githubusercontent.com/hggh/rezepte/master/pics/schokoladentorte.jpg)
