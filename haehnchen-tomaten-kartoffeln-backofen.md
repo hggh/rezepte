@@ -26,6 +26,7 @@ Zubereitung:
  - Im vorgeheizten Backofen (E-Herd: 200 °C/ Umluft: 175 °C/ Gas: Stufe 3) ca. 1 1/4 Stunden garen.
 
  - Kartoffeln gründlich waschen und je nach Größe halbieren. Mit Salz würzen und nach ca. 15 Minuten um die Hähnchenteile herum verteilen.
+ - Kartoffeln als Rosmarinkartoffeln: **Rosmarinnadeln** abmachen fein hacken mit Olivenöl vermischen mit Kartoffeln
  - für das Fleisch:
     - Chilischote waschen, putzen und fein würfeln. 
     - Knoblauch schälen und 1 Zehe in feine Würfel schneiden.
