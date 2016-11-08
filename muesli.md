@@ -15,4 +15,4 @@ Zubereitung:
 
 Die gleiche Prozedur auch mit den Haferflocken durchführen.
 
-Anschließend alles vermengen und ordentlich auskühlen lassen. Zur Aufbewahrung vor Luft- und Wasserdicht verpacken.
+Anschließend alles vermengen und ordentlich auskühlen lassen. Zur Aufbewahrung luft- und wasserdicht verpacken.
