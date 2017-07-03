@@ -6,7 +6,7 @@ Zutaten:
  * 500g Mehl
  * 200g Butter
  * 0,5 Liter Milch
- * 4? Eier
+ * 6 Eier
  * 1x Backpulver
  * Vanillezucker
  
