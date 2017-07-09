@@ -2,13 +2,12 @@ Pudding
 ================
 
 
-Zutaten:
+Zutaten (Variante ohne Kakaopulver):
 --------------
- * Halbbitterschokolade (Ritter Sport 50%)
+ * 1x Halbbitterschokolade (Ritter Sport 50%)
  * 0.5 Liter Milch
- * Stärke (z.B. Mondamin)
- * Kakaopulver
- * Zucker
+ * 3 EL gestrichen (~20g) Stärke (z.B. Mondamin)
+ * 2x EL gestrichen Zucker
  
  
  Zubereitung:
