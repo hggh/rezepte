@@ -9,6 +9,7 @@ Zutaten:
  * 6 Eier
  * 1x Backpulver
  * Vanillezucker
+ * 150g Zucker
  
  
  Zubereitung:
