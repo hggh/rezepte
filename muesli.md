@@ -6,7 +6,7 @@ Zutaten:
  * 100&nbsp;g Butter
  * 100&nbsp;g Mandelblätter
  * 100&nbsp;g Gehobelte Haselnüsse
- * 300-500&nbsp;g Vollkornhaferflocken
+ * 300-500&nbsp;g Vollkornhaferflocken, halb kernig, halb normal
  * 6&nbsp;EL Zucker
 
 Zubereitung:
@@ -15,4 +15,4 @@ Zubereitung:
 
 Die gleiche Prozedur auch mit den Haferflocken durchführen.
 
-Anschließend alles vermengen und ordentlich auskühlen lassen. Zur Aufbewahrung vor Luft- und Wasserdicht verpacken.
+Anschließend alles vermengen und ordentlich auskühlen lassen. Zur Aufbewahrung luft- und wasserdicht verpacken.
