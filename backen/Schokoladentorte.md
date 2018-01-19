@@ -6,7 +6,7 @@ Zutaten Teig:
 ---------------
  * 200g Schokolade (Zartbitter 50% Ritter Sport)
  * 200g Butter (zimmerwarm)
- * 280g Puderzucker
+ * 250g Puderzucker
  * 300g Mehl
  * 6 Eier, getrennt (zimmerwarm)
  * 1 Pck Backpulver
