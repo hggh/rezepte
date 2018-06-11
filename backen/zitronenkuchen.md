@@ -6,7 +6,7 @@ Zutaten Teig:
 -------------
  * 350g Margarine
  * 350g Mehl (gesiebt)
- * 350g Zucker
+ * 320g Zucker
  * 1 Pack. Vanillezucker
  * 2 TL Backplufer (gehäufte TL)
  * 6 Eier
