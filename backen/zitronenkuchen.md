@@ -30,8 +30,8 @@ Den Teig auf ein Backpapier ausgelegtes Backblech streichen und für 30-40min au
 
 Nun aus dem restlichen Zitronen den Saft pressen und mit Puckerzucker (gesiebt) vermischen.
 
-Solang der Kuchen noch warm ist, mit einer Gabel überall einstechen. Somit wird er schön saftig, denn die Glasur
-kann einsickern. Dann schnell die Glasur auf dem warmen Kuchen vertreichen und auskühlen lassen.
+Solang der Kuchen noch warm ist, mit einer Gabel überall einstechen. Somit wird er schön saftig, damit die Glasur
+einsickern kann. Dann schnell die Glasur auf dem warmen Kuchen verteilen und auskühlen lassen.
 
 
 Backen:
