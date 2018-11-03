@@ -5,8 +5,10 @@ Spätzle
 Zutaten:
 ---------------
  * 100g Mehl (2/3 Teile dunkeles Mehl)
+ * Grieß
  * 1 Ei
  * etwas Salz
+ * etwas Muskatnuss
  * 50g Wasser
 
 
