@@ -10,7 +10,7 @@ Zutaten:
  * 2&nbsp;Eier
  * 500&nbsp;g Mehl
  * 1/3&nbsp;Päckchen Backpulver
- * 200&nbsp;g Schokolade zur Glasur
+ * 150&nbsp;g Schokolade zur Glasur (Lindt 70% edelbitter mild)
 
 Zubereitung:
 ------------
@@ -20,6 +20,9 @@ Den Teig eine Stunde im Kühlschrank ruhen lassen.
 
 Nach der Ruhezeit den Teig durch einen Fleischwolf mit Aufsatz geben und durchdrücken.
 Das Blech mit Plätzchen im vorgeheizten Ofen bei ca. 200° C Ober- und Unterhitze backen.
-Backzeit 10 - 15 Minuten.
+
+Backzeit: 4-5 min, Blech wenden, 3-4 min
 
 Gebäck auskühlen lassen und mit der Schokoladenglasur überziehen.
+
+Pro Portion ungefähr 3 Bleche mit Backwaren.
