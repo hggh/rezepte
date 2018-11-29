@@ -1,6 +1,6 @@
 Schokotröpfchen
 ===============
-1 Teig reicht für ungefähr 70 Plätzchen.
+1 Teig reicht für ungefähr 45 Plätzchen.
 
 Zutaten:
 --------
