@@ -6,7 +6,7 @@ Zutaten Teig:
 -------------
  * 250g Butter
  * 200g Bitterschokolade (z.B. Ritter Sport Halbbitter 50%)
- * 706 gehackte Walnüsse
+ * 70g gehackte Walnüsse
  * 80g Kakaopulver
  * 65g Mehl
  * 1TL Backpulver
