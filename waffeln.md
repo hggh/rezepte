@@ -27,3 +27,5 @@ Beilagen:
 ---------
  * Puderzucker
  * Apfelmuss
+ * Nutella
+ * Zimt-Zucker
