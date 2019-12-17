@@ -18,6 +18,14 @@ Zutaten Glasur:
  * 300g Schokolade
  * 60g Kokosfett
 
+Zutaten Glasur2:
+---------------
+ * 100g Lindt 70%
+ * 100g Zartbitter 50% Ritter Sport
+ * 125ml Wasser
+ * 90g Zucker
+
+
 Eigelb und Puderzucker schaumig rühren. Eiweiß zu Schnee schlagen. Schokolade 
 in einer Mikrowelle oder einem Wasserbad erhitzen und mit der zimmerwarmen Butter glattrühren.
 Nun zum Eigelb und Zucker mengen. Milch dazugeben und glattrühren. 
@@ -33,6 +41,11 @@ Mit der Schokolade zusammen mit dem Kokosfett schmelzen und den Kuchen damit üb
 Am besten den Teig am Tag davor machen, im Backblech behalten über Nacht, dann am nächsten Tag
 aufschneiden und Glasur überziehen. 
 Am nächsten Tag ist dann der Kuchen essbar :)
+
+
+*Zubereitung Glasuer2*:
+
+Wasser mit Zucker aufkochen und so lange kochen lassen, bis sich der Zucker aufgelöst hat. Danach abkühlen lassen und mit der Schokolade glattrühren.
 
 
 ![Schokoladentorte](https://raw.githubusercontent.com/hggh/rezepte/master/pics/schokoladentorte.jpg)
