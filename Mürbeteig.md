@@ -7,7 +7,7 @@ Zutaten:
  * 150g Butter (Kalt!)
  * 1 Ei
  * 20ml Wasser eiskalt (aka 2 EL)
- * 2 TL Salz
+ * 1 prise Salz
 
 
 Zubereitung:

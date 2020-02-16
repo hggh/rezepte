@@ -26,4 +26,6 @@ Zutaten:
 Beilagen:
 ---------
  * Puderzucker
- * Apfelmuss
+ * Apfelmus
+ * Nutella
+ * Zimt-Zucker
