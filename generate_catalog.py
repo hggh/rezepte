@@ -51,6 +51,6 @@ for category in tree:
                 f.write(f'[{recipe}]({file_name})\n\n')
 
 with open(os.path.join(recipe_directory, 'index.md'), 'w+') as f:
-    for recipe in recipes:
+    for recipe in sorted(recipes):
         f.write(f'[{recipe}]({recipes[recipe]})\n\n')
 
