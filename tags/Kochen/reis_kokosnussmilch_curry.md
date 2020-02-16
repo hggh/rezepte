@@ -1,0 +1,1 @@
+../../_rezepte/reis_kokosnussmilch_curry.md

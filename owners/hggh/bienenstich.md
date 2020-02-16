@@ -1,0 +1,1 @@
+../../_rezepte/bienenstich.md
