@@ -28,5 +28,5 @@ Mit dem Skript `generate_catalog.py` kann ein neuer Katalog auf Basis der Metada
 [Ersteller](owner/index.md)
 -----------
 
-[Alle Rezepte](index.md)
+[Alle Rezepte](_rezepte/index.md)
 --------------
