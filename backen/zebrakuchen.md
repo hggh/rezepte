@@ -4,7 +4,7 @@ Zebrakuchen
 Zutaten:
 --------
  * 250&nbsp;ml neutrales Öl (Rapsöl, Sonnenblumenöl)
- * 240&nbsp;g Zucker
+ * 220&nbsp;g Zucker
  * 125&nbsp;ml lauwarmes Wasser
  * 375&nbsp;g Mehl
  * 5&nbsp;Eier
@@ -13,13 +13,13 @@ Zutaten:
  * 1&nbsp;Prise Salz
  * 20&nbsp;g Kakaopulver (z. B. Bensdorp)
  * 20&nbsp;ml Milch
- * 150&nbsp;g Glasurschokolade (z. B. Lindt Edelbitter 70% mild)
+ * 200&nbsp;g Glasurschokolade (z. B. Lindt Edelbitter 70% mild)
 
 
 Backofen:
 -------
  * Vorgeheizt auf 160°&nbsp;C Heißluft
- * Backdauer 50-60&nbsp;Min
+ * Backdauer 55-65&nbsp;Min
 
 Zubereitung:
 ------------
