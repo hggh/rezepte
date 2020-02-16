@@ -21,3 +21,12 @@ tags:
 ```
 
 Mit dem Skript `generate_catalog.py` kann ein neuer Katalog auf Basis der Metadaten generiert werden.
+
+[Kategorien](tags/index.md)
+------------
+
+[Ersteller](owners/index.md)
+-----------
+
+[Alle Rezepte](index.md)
+--------------

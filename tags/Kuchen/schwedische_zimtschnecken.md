@@ -27,4 +27,4 @@ Zubereitung:
 ------------
 Die Zubereitung des Teigs erfolgt wie bei einem klassischen Hefeteig: alle Zutaten gleichmäßig verkneten und ca. 45 Minuten gehen lassen.
 
-Den Teig anschließend halbieren und jede Teighälfte zu einem Rechteck ausrollen.
+**TODO: Zubereitung**
