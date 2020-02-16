@@ -16,17 +16,15 @@ with os.scandir(recipe_directory) as entries:
 
         recipe = frontmatter.load(entry.path)
         for tag in recipe['tags']:
-            dir = f'tags/{tag}'
-            os.makedirs(dir, exist_ok=True)
-            os.symlink(
-                os.path.relpath(entry.path, start=dir),
-                os.path.join(dir, entry.name)
-            )
+            directory = f'tags/{tag}'
+            file = os.path.join(directory, entry.name)
+            os.makedirs(directory, exist_ok=True)
+            with open(file, 'w+') as f:
+                f.write(recipe.content)
 
         owner = recipe['owner']
-        dir = f'owners/{owner}'
-        os.makedirs(dir, exist_ok=True)
-        os.symlink(
-            os.path.relpath(entry.path, start=dir),
-            os.path.join(dir, entry.name)
-        )
+        directory = f'owners/{owner}'
+        file = os.path.join(directory, entry.name)
+        os.makedirs(directory, exist_ok=True)
+        with open(file, 'w+') as f:
+            f.write(recipe.content)
