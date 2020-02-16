@@ -3,7 +3,7 @@ import frontmatter
 import os
 import shutil
 
-recipe_directory = "_rezepte"
+recipe_directory = "rezepte"
 output_directories = ['owner', 'tags']
 
 for directory in output_directories:
@@ -52,5 +52,5 @@ for category in tree:
 
 with open(os.path.join(recipe_directory, 'index.md'), 'w+') as f:
     for recipe in recipes:
-        f.write(f'[{recipe}]({os.path.join(recipe_directory, recipes[recipe])})\n\n')
+        f.write(f'[{recipe}]({recipes[recipe]})\n\n')
 
