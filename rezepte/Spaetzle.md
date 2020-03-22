@@ -11,7 +11,7 @@ Spätzle
 
 Zutaten:
 ---------------
- * 100g Mehl (2/3 Teile dunkeles Mehl)
+ * 100g Mehl (2/3 Teile 1050 Mehl)
  * Grieß
  * 1 Ei
  * etwas Salz
