@@ -29,4 +29,6 @@ Zubereitung:
  * Holzbrett + Messer eintunken.
  * Teig auf Holzbrett
  * Solang im Wasser behalten, bis Spätzle an Wasseroberfläche kommen + 1 Minute
+ * Spätzle abschöpfen und in kaltes Wasser legen (1-2 min)
+ * Spätzle im kalten Wasser abschöpfen und im Nudelsieb zwischen lagern
 
