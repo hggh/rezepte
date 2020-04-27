@@ -1,9 +1,9 @@
-┌───────────────────────────┐
-│ Rosenkohlpüree            │
-│ mit geschmelzten Zwiebeln │
-└───────────────────────────┘
+Rosenkohlpüree mit geschmelzten Zwiebeln
+━━━━━━━━━━━━━━
 
-Zutaten für 4 Portionen:
+Zutaten für 4 Portionen
+───────────────────────
+
 • 600 g Kartoffeln
 • 600 g Rosenkohl
 • 6 rote Zwiebeln
@@ -14,7 +14,8 @@ Zutaten für 4 Portionen:
 • Salz, Pfeffer, Muskatnuß
 • 3–5 Stiele Liebstöckel
 
-Zubereitung:
+Zubereitung
+───────────
 
 Kartoffeln schälen und würfeln, Rosenkohl putzen. Beides mit dem Kümmel
 in 20 g heißer Butter andünsten. Mit der Brühe auffüllen und zugedeckt

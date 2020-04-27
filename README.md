@@ -4,7 +4,7 @@ Rezeptesammlung
 Hallo!
 Hier ist eine lose Rezeptesammlung, in der gute Rezepte abgelegt und wieder abgerufen werden können.
 
-Alle Rezepte sind in dem Ordner `rezepte` zu finden.
+Alle Rezepte, die dem folgenden Konzept entsprechen, sind in dem Verzeichnis `rezepte` zu finden; alle anderen in dem Verzeichnis `uncategorised`.
 Sie sind in Markdown geschrieben und enthalten in der Regel eine oder mehrere Zutatenlisten und Anweisungen zur Ausführung des Rezepts.
 
 Zu Beginn jeder Datei befinden sich Metadaten (owner und tags), die zur Katalogisierung genutzt werden.
