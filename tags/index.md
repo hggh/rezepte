@@ -1,42 +1,42 @@
-[Backen](Backen/index.md)
+[Backen](Backen)
 
-[Beilage](Beilage/index.md)
+[Beilage](Beilage)
 
-[Buttercreme](Buttercreme/index.md)
+[Buttercreme](Buttercreme)
 
-[Fleisch](Fleisch/index.md)
+[Fleisch](Fleisch)
 
-[Getränk](Getränk/index.md)
+[Getränk](Getränk)
 
-[Hauptgericht](Hauptgericht/index.md)
+[Hauptgericht](Hauptgericht)
 
-[Hühnchen](Hühnchen/index.md)
+[Hühnchen](Hühnchen)
 
-[Kochen](Kochen/index.md)
+[Kochen](Kochen)
 
-[Kuchen](Kuchen/index.md)
+[Kuchen](Kuchen)
 
-[Langsam](Langsam/index.md)
+[Langsam](Langsam)
 
-[Nuss](Nuss/index.md)
+[Nuss](Nuss)
 
-[Obst](Obst/index.md)
+[Obst](Obst)
 
-[Party](Party/index.md)
+[Party](Party)
 
-[Plätzchen](Plätzchen/index.md)
+[Plätzchen](Plätzchen)
 
-[Schokolade](Schokolade/index.md)
+[Schokolade](Schokolade)
 
-[Schwein](Schwein/index.md)
+[Schwein](Schwein)
 
-[Sommer](Sommer/index.md)
+[Sommer](Sommer)
 
-[Suppe](Suppe/index.md)
+[Suppe](Suppe)
 
-[Süßspeise](Süßspeise/index.md)
+[Süßspeise](Süßspeise)
 
-[Vegetarisch](Vegetarisch/index.md)
+[Vegetarisch](Vegetarisch)
 
-[Weihnachten](Weihnachten/index.md)
+[Weihnachten](Weihnachten)
 

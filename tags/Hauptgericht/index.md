@@ -1,5 +1,7 @@
 [Curry Geschnetzeltes](curry-geschnetzeltes.md)
 
+[gefüllte Paprika](gefuellte_paprika.md)
+
 [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 
 [Möhrensuppe](Moehrensuppe.md)
@@ -15,6 +17,4 @@
 [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 
 [Waffeln](waffeln.md)
-
-[gefüllte Paprika](gefuellte_paprika.md)
 

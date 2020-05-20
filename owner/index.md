@@ -1,4 +1,4 @@
-[hggh](hggh/index.md)
+[hggh](hggh)
 
-[toerb](toerb/index.md)
+[toerb](toerb)
 

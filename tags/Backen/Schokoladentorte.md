@@ -48,4 +48,4 @@ Am nächsten Tag ist dann der Kuchen essbar :)
 Wasser mit Zucker aufkochen und so lange kochen lassen, bis sich der Zucker aufgelöst hat. Danach abkühlen lassen und mit der Schokolade glattrühren.
 
 
-![Schokoladentorte](/pics/schokoladentorte.jpg)
+![Schokoladentorte](/pics/Schokoladentorte.jpg)

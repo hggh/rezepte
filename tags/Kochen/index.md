@@ -2,9 +2,15 @@
 
 [Curry Geschnetzeltes](curry-geschnetzeltes.md)
 
+[gefüllte Paprika](gefuellte_paprika.md)
+
 [Gemüsenudeln](Gemuesenudeln.md)
 
+[Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
+
 [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
+
+[Kartoffelgratin](Kartoffelgratin.md)
 
 [Kartoffelsalat](Kartoffelsalat.md)
 
@@ -25,6 +31,4 @@
 [Spätzle](Spaetzle.md)
 
 [Waffeln](waffeln.md)
-
-[gefüllte Paprika](gefuellte_paprika.md)
 

@@ -8,17 +8,23 @@
 
 [Curry Geschnetzeltes](curry-geschnetzeltes.md)
 
+[gefüllte Paprika](gefuellte_paprika.md)
+
 [Gemüsenudeln](Gemuesenudeln.md)
+
+[Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
 
 [Haferflockenbollen](Haferflockenbollen.md)
 
 [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 
+[Kartoffelgratin](Kartoffelgratin.md)
+
 [Kartoffelsalat](Kartoffelsalat.md)
 
-[Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
-
 [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
+
+[Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 
 [Möhrensuppe](Moehrensuppe.md)
 
@@ -43,6 +49,4 @@
 [Waffeln](waffeln.md)
 
 [Zitronenkuchen](zitronenkuchen.md)
-
-[gefüllte Paprika](gefuellte_paprika.md)
 

@@ -6,9 +6,9 @@
 
 [Haferflockenbollen](Haferflockenbollen.md)
 
-[Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
-
 [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
+
+[Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 
 [Mürbeteig](Muerbeteig.md)
 
