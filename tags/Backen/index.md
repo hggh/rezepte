@@ -4,6 +4,7 @@ Rezepte für Backen
 * [Amerikaner](Amerikaner.md)
 * [Bienenstich](bienenstich.md)
 * [Brownies](brownies.md)
+* [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
@@ -17,4 +18,5 @@ Rezepte für Backen
 * [Spritzgebäck](spritzgebaeck.md)
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)
 * [Zebrakuchen](zebrakuchen.md)
+* [Zimtkekse (Nervenkekse) der heiligen Hildegard von Bingen](Zimtkekse.txt)
 * [Zitronenkuchen](zitronenkuchen.md)

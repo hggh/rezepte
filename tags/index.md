@@ -22,3 +22,4 @@ Rezepte nach Kategorie
 * [Süßspeise](Süßspeise/index.md)
 * [Vegetarisch](Vegetarisch/index.md)
 * [Weihnachten](Weihnachten/index.md)
+* [Winter](Winter/index.md)
