@@ -2,8 +2,8 @@
 owner: mirabilos
 tags:
 - Beilage
+- Fleisch
 - Kochen
-- Vegetarisch
 ---
 Biermarinade
 ━━━━━━━━━━━━
