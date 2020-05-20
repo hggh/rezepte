@@ -1,6 +1,7 @@
 Rezepte für Fleisch
 =====================
 
+* [Biermarinade](Biermarinade.txt)
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)

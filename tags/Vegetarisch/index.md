@@ -1,7 +1,6 @@
 Rezepte für Vegetarisch
 =====================
 
-* [Biermarinade](Biermarinade.txt)
 * [Crêpes](Crepes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 * [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
