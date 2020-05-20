@@ -1,3 +1,11 @@
+---
+owner: mirabilos
+tags:
+- Fleisch
+- Hauptgericht
+- Kochen
+- Suppe
+---
 Paprikagemüse mit Reis
 ━━━━━━━━━━━━━━━━━━━━━━
 

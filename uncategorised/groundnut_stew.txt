@@ -1,3 +1,11 @@
+---
+owner: mirabilos
+tags:
+- Hauptgericht
+- Kochen
+- Nuss
+- Vegetarisch
+---
 Uncle Bubba’s Peanut Butter Soup
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

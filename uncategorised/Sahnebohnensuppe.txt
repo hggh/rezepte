@@ -1,3 +1,13 @@
+---
+owner: mirabilos
+tags:
+- Hauptgericht
+- Kochen
+- Party
+- Suppe
+- Vegetarisch
+- Winter
+---
 Sahnebohnensuppe (vegetarisch)
 ━━━━━━━━━━━━━━━━
 
