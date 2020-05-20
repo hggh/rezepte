@@ -20,7 +20,7 @@ Zutaten:
  * 2 Eier
  * 50 g Butter flüssig
  * etwas Salz
- 
+
  Zubereitung:
 -------------
 

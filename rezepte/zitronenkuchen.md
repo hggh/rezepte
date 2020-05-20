@@ -43,6 +43,6 @@ einsickern kann. Dann schnell die Glasur auf dem warmen Kuchen verteilen und aus
 Backen:
 -------------
  * 175° C - 195°C
- * 
+ *
 
 Tags: backen

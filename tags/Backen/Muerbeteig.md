@@ -13,7 +13,7 @@ Zutaten:
 Zubereitung:
 --------------
 
- * Mehl in Schüssel geben 
+ * Mehl in Schüssel geben
  * Butter auf kaltem Teller in kleine Würfel schneiden
  * Butterwürfel und Ei Salz zum Mehl geben
  * 2 EL Wasser dazu

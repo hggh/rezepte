@@ -13,8 +13,8 @@ Zutaten:
  * Salz/Pfeffer
  * Nelken
  * saure Sahne
- 
- 
+
+
  Zubereitung:
 -------------
 

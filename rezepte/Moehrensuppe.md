@@ -33,4 +33,3 @@ Zubereitung:
  - solang köcheln lassen, bis die Möhren und Kartoffeln weich sind (evtl Wasser nachfüllen)
  - mit dem Pürierstab pürieren
  - mit etwas frischen Orangensaft verfeinern und mit Salz / Pfeffer abschmecken
- 

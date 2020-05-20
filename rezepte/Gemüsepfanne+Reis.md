@@ -35,7 +35,7 @@ Vorbereitung Gemüse:
  * Ingwer und Knoblauch schälen und fein hacken
  * Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in dünne Ringe schneiden.
  * Chili halbieren
- 
+
 
 Reis wie gewohnt kochen!
 

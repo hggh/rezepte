@@ -16,7 +16,7 @@ Zutaten (2 Personen):
  * 1&nbsp;TL Mondamin
  * Salz
  * Pfeffen
- 
+
 
 Zubereitung:
 ------------
