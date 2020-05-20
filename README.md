@@ -1,6 +1,8 @@
 Rezeptesammlung
 ===============
 
+❧ [nach Kategorie](tags/index.md) ❦ [nach Eigner](owner/index.md) ❦ [alle Rezepte](rezepte/index.md) ❣
+
 Hallo!
 Hier ist eine lose Rezeptesammlung, in der gute Rezepte abgelegt und wieder abgerufen werden können.
 
@@ -26,6 +28,8 @@ Wichtig: das Format und die Reihenfolge muß präzise eingehalten werden, mit fo
 * Nach der `owner`-Zeile kann eine Zeile `name: NAME` eingefügt werden; dieser Name wird dann statt der ersten auf den Header folgenden Zeile (oder, falls leer, dem Dateibasisnamen) für den Index verwendet
 
 Mit dem Skript `generate_catalog.sh` kann ein neuer Katalog auf Basis der Metadaten generiert werden.
+
+![Collage](Aufmacher.jpg)
 
 [Kategorien](tags/index.md)
 ------------
