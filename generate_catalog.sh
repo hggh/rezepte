@@ -50,7 +50,7 @@ for fn in rezepte/*; do
 	set --
 	exec <"$fn"
 	fn=${fn##*/}
-	name=${fn%.*}
+	name=
 	IFS= read -r line || die "not in correct format (too short): $fn"
 	case $line in
 	(---|'<!--') ;;
@@ -87,7 +87,8 @@ for fn in rezepte/*; do
 	    -e 's!\.\./!&&!g' \
 	    >owner/"$owner"/"$fn"
 	line=$(sed 1q <owner/"$owner"/"$fn") || line=
-	test -z "$line" || name=$line
+	test -n "$name" || name=$line
+	test -n "$name" || name=${fn%.*}
 	line="* [$name]($fn)"
 	echo "$line" >&4
 	echo "$line" >&5
