@@ -1,7 +1,7 @@
 Rezeptesammlung
 ===============
 
-❧ [nach Kategorie](tags/index.md) ❦ [nach Eigner](owner/index.md) ❦ [alle Rezepte](rezepte/index.md) ❣
+❧ [nach Kategorie](tags/index.md) ❦ [nach Eigner](owner/index.md) ❦ [alle Rezepte](rezepte/index.md) ❣︎
 
 Hallo!
 Hier ist eine lose Rezeptesammlung, in der gute Rezepte abgelegt und wieder abgerufen werden können.
