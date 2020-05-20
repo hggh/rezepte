@@ -1,2 +1,4 @@
-[Crêpes](Crepes.md)
+Rezepte für Party
+=====================
 
+* [Crêpes](Crepes.md)

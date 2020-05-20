@@ -1,4 +1,5 @@
-[Schokotröpfchen](schokotroepfchen.md)
+Rezepte für Weihnachten
+=====================
 
-[Spritzgebäck](spritzgebaeck.md)
-
+* [Schokotröpfchen](schokotroepfchen.md)
+* [Spritzgebäck](spritzgebaeck.md)

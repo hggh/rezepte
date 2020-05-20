@@ -1,2 +1,4 @@
-[Bienenstich](bienenstich.md)
+Rezepte für Buttercreme
+=====================
 
+* [Bienenstich](bienenstich.md)

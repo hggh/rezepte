@@ -1,42 +1,24 @@
-[Backen](Backen)
+Rezepte nach Kategorie
+=====================
 
-[Beilage](Beilage)
-
-[Buttercreme](Buttercreme)
-
-[Fleisch](Fleisch)
-
-[Getränk](Getränk)
-
-[Hauptgericht](Hauptgericht)
-
-[Hühnchen](Hühnchen)
-
-[Kochen](Kochen)
-
-[Kuchen](Kuchen)
-
-[Langsam](Langsam)
-
-[Nuss](Nuss)
-
-[Obst](Obst)
-
-[Party](Party)
-
-[Plätzchen](Plätzchen)
-
-[Schokolade](Schokolade)
-
-[Schwein](Schwein)
-
-[Sommer](Sommer)
-
-[Suppe](Suppe)
-
-[Süßspeise](Süßspeise)
-
-[Vegetarisch](Vegetarisch)
-
-[Weihnachten](Weihnachten)
-
+* [Backen](Backen/index.md)
+* [Beilage](Beilage/index.md)
+* [Buttercreme](Buttercreme/index.md)
+* [Fleisch](Fleisch/index.md)
+* [Getränk](Getränk/index.md)
+* [Hauptgericht](Hauptgericht/index.md)
+* [Hühnchen](Hühnchen/index.md)
+* [Kochen](Kochen/index.md)
+* [Kuchen](Kuchen/index.md)
+* [Langsam](Langsam/index.md)
+* [Nuss](Nuss/index.md)
+* [Obst](Obst/index.md)
+* [Party](Party/index.md)
+* [Plätzchen](Plätzchen/index.md)
+* [Schokolade](Schokolade/index.md)
+* [Schwein](Schwein/index.md)
+* [Sommer](Sommer/index.md)
+* [Suppe](Suppe/index.md)
+* [Süßspeise](Süßspeise/index.md)
+* [Vegetarisch](Vegetarisch/index.md)
+* [Weihnachten](Weihnachten/index.md)

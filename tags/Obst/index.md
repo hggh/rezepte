@@ -1,2 +1,4 @@
-[Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
+Rezepte für Obst
+=====================
 
+* [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)

@@ -1,4 +1,5 @@
-[hggh](hggh)
+Rezepte nach Eigner
+=====================
 
-[toerb](toerb)
-
+* [hggh](hggh/index.md)
+* [toerb](toerb/index.md)

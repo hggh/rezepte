@@ -1,6 +1,6 @@
-[Crêpes](Crepes.md)
+Rezepte für Süßspeise
+=====================
 
-[Pudding](pudding.md)
-
-[Waffeln](waffeln.md)
-
+* [Crêpes](Crepes.md)
+* [Pudding](pudding.md)
+* [Waffeln](waffeln.md)
