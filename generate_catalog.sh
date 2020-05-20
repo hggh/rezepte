@@ -107,14 +107,14 @@ doindex() {
 
 for line in owner/*; do
 	line=${line#*/}
-	echo "* [$line]($line)"
+	echo "* [$line]($line/index.md)"
 	doindex "$T/owner-$line" "Rezepte von $line" >owner/"$line"/index.md
 done >"$T/owner"
 doindex "$T/owner" "Rezepte nach Eigner" >owner/index.md
 
 for line in tags/*; do
 	line=${line#*/}
-	echo "* [$line]($line)"
+	echo "* [$line]($line/index.md)"
 	doindex "$T/tags-$line" "Rezepte für $line" >tags/"$line"/index.md
 done >"$T/tags"
 doindex "$T/tags" "Rezepte nach Kategorie" >tags/index.md
