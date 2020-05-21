@@ -24,6 +24,7 @@ Alle Rezepte
 * [Möhrensuppe](Moehrensuppe.md)
 * [Mürbeteig](Muerbeteig.md)
 * [Müsli](muesli.md)
+* [Noodles with twice meat](Noodles-twice-meat.txt)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 * [Pesto](pesto.md)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)

@@ -5,6 +5,7 @@ Rezepte für Hauptgericht
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Möhrensuppe](Moehrensuppe.md)
+* [Noodles with twice meat](Noodles-twice-meat.txt)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
 * [Pizza](pizza.md)
