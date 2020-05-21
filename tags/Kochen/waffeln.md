@@ -10,8 +10,8 @@ Zutaten:
  * 1x Backpulver
  * Vanillezucker
  * 100g Zucker
- 
- 
+
+
  Zubereitung:
  ----------------
    - Butter im Topf schmelzen
@@ -19,10 +19,10 @@ Zutaten:
    - alles zusammenrühren
    - Eischnee unterheben
    - Waffeleisen auf Stufe 3 stellen
-   
-   
- 
- 
+
+
+
+
 Beilagen:
 ---------
  * Puderzucker

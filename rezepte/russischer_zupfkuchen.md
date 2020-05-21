@@ -14,7 +14,7 @@ Zutaten Teig:
  * 350&nbsp;g Mehl
  * 30&nbsp;g Kakaopulver
  * 1&nbsp;Pck. Backpulver
- * 1&nbsp;Ei  
+ * 1&nbsp;Ei
 
 Zutaten Füllung:
 ----------------

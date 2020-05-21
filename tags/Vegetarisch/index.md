@@ -1,24 +1,31 @@
-[Crêpes](Crepes.md)
+Rezepte für Vegetarisch
+=====================
 
-[Gemüsenudeln](Gemuesenudeln.md)
-
-[Kartoffelsalat](Kartoffelsalat.md)
-
-[Möhrensuppe](Moehrensuppe.md)
-
-[Müsli](muesli.md)
-
-[Pesto](pesto.md)
-
-[Pudding](pudding.md)
-
-[Reis mit Kokonussmilch mit Curry](reis_kokosnussmilch_curry.md)
-
-[Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
-
-[Spätzle](Spaetzle.md)
-
-[Waffeln](waffeln.md)
-
-[gefüllte Paprika](gefuellte_paprika.md)
-
+* [Crêpes](Crepes.md)
+* [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
+* [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
+* [gefüllte Paprika](gefuellte_paprika.md)
+* [Gemüsenudeln](Gemuesenudeln.md)
+* [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
+* [Grießpudding](Grießpudding.txt)
+* [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
+* [Kartoffelgratin](Kartoffelgratin.md)
+* [Kartoffelsalat](Kartoffelsalat.md)
+* [Möhrensuppe](Moehrensuppe.md)
+* [Müsli](muesli.md)
+* [Pesto](pesto.md)
+* [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
+* [Pudding](pudding.md)
+* [Ratatouille](Ratatouille.txt)
+* [Reis mit Kokonussmilch mit Curry](reis_kokosnussmilch_curry.md)
+* [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
+* [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
+* [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
+* [Safranmilch (saffron milk)](Safranmilch.txt)
+* [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+* [Spätzle](Spaetzle.md)
+* [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
+* [Waffeln](waffeln.md)
+* [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
+* [Zichorien-Orangensalat](Zichorien-Orangensalat.txt)
+* [Zimtkekse (Nervenkekse) der heiligen Hildegard von Bingen](Zimtkekse.txt)

@@ -34,4 +34,3 @@ Zubereitung:
 Die Zubereitung des Teigs erfolgt wie bei einem klassischen Hefeteig: alle Zutaten gleichmäßig verkneten und ca. 45 Minuten gehen lassen.
 
 **TODO: Zubereitung**
-
