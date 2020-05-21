@@ -2,12 +2,13 @@
 owner: mirabilos
 tags:
 - Getränk
+- English
 - Kochen
 - Süßspeise
 - Vegetarisch
 - Winter
 ---
-Safranmilch
+Safranmilch (saffron milk)
 ━━━━━━━━━━━
 
 Ingredients for four cups

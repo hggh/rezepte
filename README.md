@@ -1,7 +1,7 @@
 Rezeptesammlung
 ===============
 
-❧ [nach Kategorie](tags/index.md) ❦ [nach Eigner](owner/index.md) ❦ [alle Rezepte](rezepte/index.md) ❣︎
+❧ [nach Kategorie](tags/index.md) ❦ [nach Eigner](owner/index.md) ❦ [alle Rezepte](rezepte/index.md) ❧ [all English-language recipes](tags/English/index.md) ❣︎
 
 Hallo!
 Hier ist eine lose Rezeptesammlung, in der gute Rezepte abgelegt und wieder abgerufen werden können.
@@ -39,3 +39,4 @@ Mit dem Skript `generate_catalog.sh` kann ein neuer Katalog auf Basis der Metada
 
 [Alle Rezepte](rezepte/index.md)
 --------------
+[all English-language recipes](tags/English/index.md)
