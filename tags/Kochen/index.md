@@ -23,7 +23,7 @@ Rezepte für Kochen
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
-* [Safranmilch](Safranmilch.txt)
+* [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
 * [Spätzle](Spaetzle.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)

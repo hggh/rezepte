@@ -4,6 +4,7 @@ Rezepte nach Kategorie
 * [Backen](Backen/index.md)
 * [Beilage](Beilage/index.md)
 * [Buttercreme](Buttercreme/index.md)
+* [English](English/index.md)
 * [Fleisch](Fleisch/index.md)
 * [Getränk](Getränk/index.md)
 * [Hauptgericht](Hauptgericht/index.md)

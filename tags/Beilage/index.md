@@ -6,7 +6,7 @@ Rezepte für Beilage
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 * [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
 * [Gemüsenudeln](Gemuesenudeln.md)
-* [Ingwerdressing für Salat](Ingwerdressing.txt)
+* [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelsalat](Kartoffelsalat.md)
 * [Pesto](pesto.md)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
