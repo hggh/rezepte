@@ -15,6 +15,7 @@ Rezepte für Vegetarisch
 * [Müsli](muesli.md)
 * [Pesto](pesto.md)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
+* [Porridge „zuhause“](Porridge.txt)
 * [Pudding](pudding.md)
 * [Ratatouille](Ratatouille.txt)
 * [Reis mit Kokonussmilch mit Curry](reis_kokosnussmilch_curry.md)

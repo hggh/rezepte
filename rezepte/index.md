@@ -29,6 +29,7 @@ Alle Rezepte
 * [Pesto](pesto.md)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
 * [Pizza](pizza.md)
+* [Porridge „zuhause“](Porridge.txt)
 * [Pudding](pudding.md)
 * [Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)
 * [Quiche Lorraine](quiche_lorraine.md)

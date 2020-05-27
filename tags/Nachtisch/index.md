@@ -1,8 +1,9 @@
-Rezepte für Party
+Rezepte für Nachtisch
 =====================
 
 * [Crêpes](Crepes.md)
+* [Grießpudding](Grießpudding.txt)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
 * [Porridge „zuhause“](Porridge.txt)
-* [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
-* [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
+* [Pudding](pudding.md)
+* [Waffeln](waffeln.md)

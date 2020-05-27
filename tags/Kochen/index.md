@@ -17,6 +17,7 @@ Rezepte für Kochen
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 * [Pesto](pesto.md)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
+* [Porridge „zuhause“](Porridge.txt)
 * [Pudding](pudding.md)
 * [Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)
 * [Ratatouille](Ratatouille.txt)

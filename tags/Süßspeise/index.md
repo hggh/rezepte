@@ -6,6 +6,7 @@ Rezepte für Süßspeise
 * [Grießpudding](Grießpudding.txt)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
+* [Porridge „zuhause“](Porridge.txt)
 * [Pudding](pudding.md)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Waffeln](waffeln.md)
