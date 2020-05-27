@@ -2,6 +2,7 @@
 owner: mirabilos
 tags:
 - Kochen
+- Nachtisch
 - Obst
 - Sommer
 - Süßspeise

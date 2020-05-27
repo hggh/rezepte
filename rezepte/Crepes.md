@@ -3,6 +3,7 @@ owner: toerb
 tags:
 - Süßspeise
 - Langsam
+- Nachtisch
 - Party
 - Vegetarisch
 ---

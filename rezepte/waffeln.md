@@ -1,8 +1,10 @@
 ---
 owner: hggh
 tags:
+- Frühstück
 - Kochen
 - Hauptgericht
+- Nachtisch
 - Vegetarisch
 - Süßspeise
 ---
