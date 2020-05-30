@@ -9,9 +9,9 @@ Rezepte für Kochen
 * [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
 * [Grießpudding](Grießpudding.txt)
 
-  <img src="../../pics/Grießpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
-  <img src="../../pics/Grießpudding.2.jpg" width="30%" alt="Grießpudding (2): Eischnee, mit der Gabel geschlagen (wie bei Oma — ich kann’s noch!)" title="Grießpudding (2):&#10;Eischnee, mit der Gabel geschlagen&#10;(wie bei Oma — ich kann’s noch!)" />
-  <img src="../../pics/Grießpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
+  <img src="../../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
+  <img src="../../pics/Grie%C3%9Fpudding.2.jpg" width="30%" alt="Grießpudding (2): Eischnee, mit der Gabel geschlagen (wie bei Oma — ich kann’s noch!)" title="Grießpudding (2):&#10;Eischnee, mit der Gabel geschlagen&#10;(wie bei Oma — ich kann’s noch!)" />
+  <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
@@ -22,7 +22,7 @@ Rezepte für Kochen
   <img src="../../pics/Noodles-twice-meat.jpg" width="30%" alt="Noodles-twice-meat" title="Noodles-twice-meat" />
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 
-  <img src="../../pics/Paprikagemüse.jpg" width="30%" alt="Paprikagemüse: beim Kochen" title="Paprikagemüse:&#10;beim Kochen" />
+  <img src="../../pics/Paprikagem%C3%BCse.jpg" width="30%" alt="Paprikagemüse: beim Kochen" title="Paprikagemüse:&#10;beim Kochen" />
 * [Pesto](pesto.md)
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
 
@@ -42,4 +42,4 @@ Rezepte für Kochen
 * [Waffeln](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
-  <img src="../../pics/Solstice+Yule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />
+  <img src="../../pics/Solstice%2BYule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />

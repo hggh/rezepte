@@ -9,15 +9,13 @@ Rezepte von mirabilos
 * [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
 * [Grießpudding](Grießpudding.txt)
 
-  <img src="../../pics/Grie%C3%9Fpudding.1.jpg" width="30%"
-  alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
+  <img src="../../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
   <img src="../../pics/Grie%C3%9Fpudding.2.jpg" width="30%" alt="Grießpudding (2): Eischnee, mit der Gabel geschlagen (wie bei Oma — ich kann’s noch!)" title="Grießpudding (2):&#10;Eischnee, mit der Gabel geschlagen&#10;(wie bei Oma — ich kann’s noch!)" />
-  <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%"
-  alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
+  <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 
-  <img src="../../pics/Paprikagemüse.jpg" width="30%" alt="Paprikagemüse: beim Kochen" title="Paprikagemüse:&#10;beim Kochen" />
+  <img src="../../pics/Paprikagem%C3%BCse.jpg" width="30%" alt="Paprikagemüse: beim Kochen" title="Paprikagemüse:&#10;beim Kochen" />
 * [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
 
   <img src="../../pics/Pfannkuchen.jpg" width="30%" alt="Pfannkuchen: Pannekōche, eßbereit" title="Pfannkuchen:&#10;Pannekōche, eßbereit" />
@@ -29,6 +27,6 @@ Rezepte von mirabilos
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
-  <img src="../../pics/Solstice+Yule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />
+  <img src="../../pics/Solstice%2BYule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />
 * [Zichorien-Orangensalat](Zichorien-Orangensalat.txt)
 * [Zimtkekse (Nervenkekse) der heiligen Hildegard von Bingen](Zimtkekse.txt)
