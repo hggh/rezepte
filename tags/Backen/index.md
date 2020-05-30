@@ -12,8 +12,14 @@ Rezepte für Backen
 * [Pizza](pizza.md)
 * [Quiche Lorraine](quiche_lorraine.md)
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
+
+  <img src="../../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
 * [Schokoladentorte](Schokoladentorte.md)
+
+  <img src="../../pics/Schokoladentorte.jpg" width="30%" alt="Schokoladentorte" title="Schokoladentorte" />
 * [Schokotröpfchen](schokotroepfchen.md)
+
+  <img src="../../pics/schokotroepfchen.jpg" width="30%" alt="schokotroepfchen" title="schokotroepfchen" />
 * [Schwedische Zimtschnecken (Kanelbullar)](schwedische_zimtschnecken.md)
 * [Spritzgebäck](spritzgebaeck.md)
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)

@@ -24,6 +24,8 @@ Rezepte von hggh
 * [Reis mit Kokonussmilch mit Curry](reis_kokosnussmilch_curry.md)
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Schokoladentorte](Schokoladentorte.md)
+
+  <img src="../../pics/Schokoladentorte.jpg" width="30%" alt="Schokoladentorte" title="Schokoladentorte" />
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)
 * [Waffeln](waffeln.md)
 * [Zitronenkuchen](zitronenkuchen.md)
