@@ -127,11 +127,11 @@ for fn in rezepte/*; do
 		fi
 		case $pic in
 		(pics/*[!A-Za-z0-9_.~-]*)
-			pictag=../../pics/$(echo "$pic" | \
-			    sed 's!^pics/!!' | \
-			    tr -d '\n' | \
-			    hexdump -ve '1/1 "x%02X"' | \
-			    tr x %)
+			pictag=../../pics/$(echo "$pic" | perl -0777 -pe '
+				s!^pics/!!;
+				chop;
+				s/([^A-Za-z0-9_.~-])/sprintf "%%%02X", ord($1)/eg;
+			    ')
 			;;
 		(*)
 			pictag=../../$pic
