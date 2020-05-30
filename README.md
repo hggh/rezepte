@@ -1,6 +1,7 @@
 Rezeptesammlung
 ===============
 
+<!-- https://gitlab.com/gitlab-org/gitlab/-/issues/219622 about GitLab mis-rendering this -->
 ❧ [nach Kategorie](tags/index.md) ❦ [nach Eigner](owner/index.md) ❦ [alle Rezepte](rezepte/index.md) ❧ [all English-language recipes](tags/English/index.md) ❣︎
 
 Hallo!
