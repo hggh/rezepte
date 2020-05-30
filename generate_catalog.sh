@@ -125,7 +125,18 @@ for fn in rezepte/*; do
 			picalt=$pictag
 			pictit=$pictag
 		fi
-		pictag=$(echo "../../$pic" | htmlesc)
+		case $pic in
+		(pics/*[!A-Za-z0-9_.~-]*)
+			pictag=../../pics/$(echo "$pic" | \
+			    sed 's!^pics/!!' | \
+			    tr -d '\n' | \
+			    hexdump -ve '1/1 "x%02X"' | \
+			    tr x %)
+			;;
+		(*)
+			pictag=../../$pic
+			;;
+		esac
 		# funnily enough, this is the correct way to do it in GFM…
 		pictag="<img src=\"$pictag\" width=\"30%\""
 		pictag="$pictag alt=\"$picalt\" title=\"$pictit\" />"
