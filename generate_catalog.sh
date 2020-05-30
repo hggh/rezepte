@@ -44,12 +44,21 @@ rm -rf owner tags
 mkdir owner tags
 rm -f rezepte/index.md
 
+htmlesc() {
+	tr -d '[--]' | tr '\n' '' | { cat; echo; } | sed \
+	    -e 's/[	 ]*$//g' \
+	    -e 's/[&]/\&amp;/g' \
+	    -e 's/[]/\&#10;/g' \
+	    -e 's/["]/\&quot;/g'
+}
+
 exec 4>"$T/rezepte"
 for fn in rezepte/*; do
 	test -f "$fn" || continue
 	set --
 	exec <"$fn"
 	fn=${fn##*/}
+	bn=${fn%.*}
 	name=
 	IFS= read -r line || die "not in correct format (too short): $fn"
 	case $line in
@@ -88,9 +97,42 @@ for fn in rezepte/*; do
 	    >owner/"$owner"/"$fn"
 	line=$(sed 1q <owner/"$owner"/"$fn") || line=
 	test -n "$name" || name=$line
-	test -n "$name" || name=${fn%.*}
+	test -n "$name" || name=$bn
 	line="* [$name]($fn)"
-	echo "$line" >&4
+	sep='  '
+	for pic in pics/"$bn".*; do
+		test -e "$pic" || continue
+		case $pic in
+		(*.lbl)
+			continue
+			;;
+		(pics/"$bn".*.*)
+			pictag=${pic#pics/"$bn".}
+			pictag="$bn (${pictag%.*})"
+			;;
+		(*)
+			pictag=$bn
+			;;
+		esac
+		pictag=$(echo "X$pictag" | htmlesc); pictag=${pictag#X}
+		if test -s "${pic%.*}.lbl"; then
+			piclbl=$(expand <"${pic%.*}.lbl" | htmlesc)
+			picalt="$pictag: $piclbl"
+			pictit="$pictag:&#10;$piclbl"
+			picalt=$(echo "X$pictit" | sed 's/[&][#]10;/ /g')
+			picalt=${picalt#X}
+		else
+			picalt=$pictag
+			pictit=$pictag
+		fi
+		pictag=$(echo "../../$pic" | htmlesc)
+		# funnily enough, this is the correct way to do it in GFM…
+		pictag="<img src=\"$pictag\" width=\"30%\""
+		pictag="$pictag alt=\"$picalt\" title=\"$pictit\" />"
+		line=$line$sep$pictag
+		sep='  '
+	done
+	echo "$line" | sed 's!\(<img src="\)\.\./\(\.\./pics/\)!\1\2!g' >&4
 	echo "$line" >&5
 	for tag in "$@"; do
 		echo "$line" >>"$T/tags-$tag"
@@ -103,7 +145,7 @@ doindex() {
 	echo "$2"
 	echo =====================
 	echo
-	sort -f <"$1"
+	sort -f <"$1" | tr '' '\n'
 }
 
 for line in owner/*; do
