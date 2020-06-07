@@ -1,0 +1,52 @@
+Deutsche Maßeinheiten
+─────────────────────
+
+  \ Einheit │      gestrichen      │ gehäuft  │        │ USA
+ Substanz \ │ Teelöffel │ Eßlöffel │ Eßlöffel │ Tasse  │ cup ≈
+────────────┼───────────┼──────────┼──────────┼────────┼──────
+Backpulver  │      3  g │     9  g │          │        │
+Butter      │      4  g │    10  g │  20–25 g │        │ 225 g
+Flüssigkeit │      5 mℓ │    15 mℓ │          │ 125 mℓ │
+Fruktose    │      4  g │    12  g │          │        │
+Graupen     │     10  g │    18  g │          │        │
+Grieß       │           │    12  g │     20 g │ 125  g │
+Honig       │     10  g │    20  g │          │        │ 340 g
+Kaffeepulv. │      2  g │     6  g │          │        │
+Kakao       │      2  g │     5  g │     10 g │        │ 120 g
+Margarine   │      5  g │    10  g │          │        │
+Marmelade   │      6  g │    18  g │          │        │
+Mehl        │      3  g │    10  g │     25 g │ 100  g │ 125 g
+Puderzucker │      3  g │    10  g │          │        │ 120 g
+Salz        │      5  g │    12  g │     25 g │        │
+Stärke      │      3  g │     9  g │          │        │ 130 g
+Zimt        │      2  g │          │          │        │
+Zucker      │      5  g │    15  g │     30 g │ 150  g │ 200 g
+
+Eßlöffelgrößen variïeren, die „alten“ deutschen sind 15 mℓ,
+die „neuen“ deutschen(?) 7½ mℓ, 10 und 12 mℓ findet man oft.
+„Heutige“ Teelöffel fassen angeblich eher 2 als 5 mℓ.
+
+• 1 Stück Würfelzucker ≈ 4 g
+
+
+Amerikanische Maßeinheiten
+──────────────────────────
+
+• 1 gr (grain, Gran)  =  64.8 mg
+• 1 oz (ounce, Unze)  =  28.35 g
+• 1 lb (pound, Pfund) = 453.59 g = 16 oz
+
+• 1 fl.oz (fluid ounce)   = 28.4 mℓ
+• 1 cup (Tasse) = 8 fl.oz = 237 mℓ
+• 1 pt (pint)   = 2 cups  = 474 mℓ
+• 1 quart       = 2 pints = 948 mℓ
+• 1 gallon      = 4 quart = 3.792 ℓ
+
+• 1 ssp (salt spoon)    =  ¼ tsp  =   1.23 mℓ
+• 1 tsp (tea spoon)               =   4.93 mℓ
+• 1 dsp (dessert spoon) =  2 tsp  =   9.86 mℓ
+• 1 tbsp (table spoon)  =  3 tsp  =  14.79 mℓ
+• 1 tc (tea cup)        = 12 tbsp = 177.44 mℓ
+• 1 c / cu (cup)        = 16 tbsp = 236.59 mℓ
+
+• 1 stick butter = ½ cup = 115 g
