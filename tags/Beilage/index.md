@@ -9,6 +9,7 @@ Rezepte für Beilage
   <img src="../../pics/Feldsalat.2.jpg" width="30%" alt="Feldsalat (2): Salat mit Dressing vermischt" title="Feldsalat (2):&#10;Salat mit Dressing vermischt" />
 * [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
 * [Gemüsenudeln](Gemuesenudeln.md)
+* [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelsalat](Kartoffelsalat.md)
 * [Pesto](pesto.md)

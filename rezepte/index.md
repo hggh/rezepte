@@ -16,12 +16,14 @@ Alle Rezepte
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [Gemüsenudeln](Gemuesenudeln.md)
 * [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
-* [Grießpudding](Grießpudding.txt)
+* [Grießpudding (semolina pudding)](Grießpudding.txt)
 
   <img src="../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
   <img src="../pics/Grie%C3%9Fpudding.2.jpg" width="30%" alt="Grießpudding (2): Eischnee, mit der Gabel geschlagen (wie bei Oma — ich kann’s noch!)" title="Grießpudding (2):&#10;Eischnee, mit der Gabel geschlagen&#10;(wie bei Oma — ich kann’s noch!)" />
   <img src="../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
+* [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferflockenbollen](Haferflockenbollen.md)
+* [Haferkekse](Haferkekse.txt)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
@@ -34,6 +36,7 @@ Alle Rezepte
 * [Noodles with twice meat](Noodles-twice-meat.txt)
 
   <img src="../pics/Noodles-twice-meat.jpg" width="30%" alt="Noodles-twice-meat" title="Noodles-twice-meat" />
+* [Overnight-Oats](Overnight-Oats.txt)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 
   <img src="../pics/Paprikagem%C3%BCse.jpg" width="30%" alt="Paprikagemüse: beim Kochen" title="Paprikagemüse:&#10;beim Kochen" />

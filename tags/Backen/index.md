@@ -6,6 +6,7 @@ Rezepte für Backen
 * [Brownies](brownies.md)
 * [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
 * [Haferflockenbollen](Haferflockenbollen.md)
+* [Haferkekse](Haferkekse.txt)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Mürbeteig](Muerbeteig.md)
