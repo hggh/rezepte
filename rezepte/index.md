@@ -66,6 +66,7 @@ Alle Rezepte
 
   <img src="../pics/schokotroepfchen.jpg" width="30%" alt="schokotroepfchen" title="schokotroepfchen" />
 * [Schwedische Zimtschnecken (Kanelbullar)](schwedische_zimtschnecken.md)
+* [Skúffukaka (isländischer Schokoladenkuchen mit Lakritz)](Skúffukaka.txt)
 * [Spritzgebäck](spritzgebaeck.md)
 * [Spätzle](Spaetzle.md)
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)

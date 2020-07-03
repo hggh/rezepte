@@ -6,4 +6,5 @@ Rezepte nach Eigner
 * [hggh](hggh/index.md)
 * [JettaRosewater](JettaRosewater/index.md)
 * [mirabilos](mirabilos/index.md)
+* [NORDISCH.info](NORDISCH.info/index.md)
 * [toerb](toerb/index.md)

@@ -13,6 +13,7 @@ Rezepte für Kuchen
 
   <img src="../../pics/Schokoladentorte.jpg" width="30%" alt="Schokoladentorte" title="Schokoladentorte" />
 * [Schwedische Zimtschnecken (Kanelbullar)](schwedische_zimtschnecken.md)
+* [Skúffukaka (isländischer Schokoladenkuchen mit Lakritz)](Skúffukaka.txt)
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)
 * [Zebrakuchen](zebrakuchen.md)
 * [Zitronenkuchen](zitronenkuchen.md)

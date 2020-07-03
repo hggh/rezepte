@@ -19,6 +19,7 @@ Rezepte für Süßspeise
 * [Porridge „zuhause“](Porridge.txt)
 * [Pudding](pudding.md)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
+* [Skúffukaka (isländischer Schokoladenkuchen mit Lakritz)](Skúffukaka.txt)
 * [Waffeln](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
