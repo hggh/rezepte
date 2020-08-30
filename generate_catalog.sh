@@ -52,6 +52,14 @@ htmlesc() {
 	    -e 's/["]/\&quot;/g'
 }
 
+# for now (more escaping will be added as needed)
+mdlink() {
+	echo "[$1]$(echo "($2)" | sed \
+	    -e 's/%/%25/g' \
+	    -e 's/ /%20/g' \
+	    )"
+}
+
 exec 4>"$T/rezepte"
 for fn in rezepte/*; do
 	test -f "$fn" || continue
@@ -98,7 +106,7 @@ for fn in rezepte/*; do
 	line=$(sed 1q <owner/"$owner"/"$fn") || line=
 	test -n "$name" || name=$line
 	test -n "$name" || name=$bn
-	line="* [$name]($fn)"
+	line="* $(mdlink "$name" "$fn")"
 	sep='  '
 	for pic in pics/"$bn".*; do
 		test -e "$pic" || continue
@@ -161,14 +169,14 @@ doindex() {
 
 for line in owner/*; do
 	line=${line#*/}
-	echo "* [$line]($line/index.md)"
+	echo "* $(mdlink "$line" "$line/index.md")"
 	doindex "$T/owner-$line" "Rezepte von $line" >owner/"$line"/index.md
 done >"$T/owner"
 doindex "$T/owner" "Rezepte nach Eigner" >owner/index.md
 
 for line in tags/*; do
 	line=${line#*/}
-	echo "* [$line]($line/index.md)"
+	echo "* $(mdlink "$line" "$line/index.md")"
 	doindex "$T/tags-$line" "Rezepte für $line" >tags/"$line"/index.md
 done >"$T/tags"
 doindex "$T/tags" "Rezepte nach Kategorie" >tags/index.md
