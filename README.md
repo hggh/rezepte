@@ -40,4 +40,6 @@ Mit dem Skript `generate_catalog.sh` kann ein neuer Katalog auf Basis der Metada
 
 [Alle Rezepte](rezepte/index.md)
 --------------
+
 [all English-language recipes](tags/English/index.md)
+------------------------------
