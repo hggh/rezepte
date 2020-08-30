@@ -2,6 +2,7 @@ Rezepte für Backen
 =====================
 
 * [Amerikaner](Amerikaner.md)
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Bienenstich](bienenstich.md)
 * [Brownies](brownies.md)
 * [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
@@ -15,6 +16,7 @@ Rezepte für Backen
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
   <img src="../../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
+* [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Schokoladentorte](Schokoladentorte.md)
 
   <img src="../../pics/Schokoladentorte.jpg" width="30%" alt="Schokoladentorte" title="Schokoladentorte" />

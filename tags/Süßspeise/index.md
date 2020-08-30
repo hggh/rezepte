@@ -1,6 +1,7 @@
 Rezepte für Süßspeise
 =====================
 
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 

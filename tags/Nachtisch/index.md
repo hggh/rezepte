@@ -1,6 +1,7 @@
 Rezepte für Nachtisch
 =====================
 
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
 

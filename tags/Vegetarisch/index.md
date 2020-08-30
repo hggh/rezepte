@@ -1,6 +1,7 @@
 Rezepte für Vegetarisch
 =====================
 
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 
@@ -36,6 +37,7 @@ Rezepte für Vegetarisch
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+* [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Spätzle](Spaetzle.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln](waffeln.md)

@@ -2,6 +2,7 @@ Rezepte für Kuchen
 =====================
 
 * [Amerikaner](Amerikaner.md)
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Bienenstich](bienenstich.md)
 * [Brownies](brownies.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)

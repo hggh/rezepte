@@ -1,6 +1,7 @@
 Rezepte für Obst
 =====================
 
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
 
   <img src="../../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />

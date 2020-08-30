@@ -1,6 +1,7 @@
 Rezepte von mirabilos
 =====================
 
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Biermarinade](Biermarinade.txt)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 

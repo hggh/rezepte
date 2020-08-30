@@ -2,6 +2,7 @@ Alle Rezepte
 =====================
 
 * [Amerikaner](Amerikaner.md)
+* [Apfelkuchen](Apfelkuchen.txt)
 * [Bienenstich](bienenstich.md)
 * [Biermarinade](Biermarinade.txt)
 * [Blaukraut](blaukraut.md)
@@ -59,6 +60,7 @@ Alle Rezepte
   <img src="../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+* [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Schokoladentorte](Schokoladentorte.md)
 
   <img src="../pics/Schokoladentorte.jpg" width="30%" alt="Schokoladentorte" title="Schokoladentorte" />
