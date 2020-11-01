@@ -38,5 +38,7 @@
 
 [Vegetarisch](Vegetarisch/index.md)
 
+[Vorspeise](Vorspeise/index.md)
+
 [Weihnachten](Weihnachten/index.md)
 
