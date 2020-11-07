@@ -18,6 +18,8 @@
 
 [Gemüsenudeln](Gemuesenudeln.md)
 
+[Grießklößchen](griesskloesschen.md)
+
 [Haferflockenbollen](Haferflockenbollen.md)
 
 [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)

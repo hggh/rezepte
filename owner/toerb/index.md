@@ -6,6 +6,8 @@
 
 [Crêpes](Crepes.md)
 
+[Grießklößchen](griesskloesschen.md)
+
 [Pesto](pesto.md)
 
 [Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)

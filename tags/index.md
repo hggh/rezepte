@@ -10,6 +10,8 @@
 
 [Hauptgericht](Hauptgericht/index.md)
 
+[Hauptspeise](Hauptspeise/index.md)
+
 [Hühnchen](Hühnchen/index.md)
 
 [Kochen](Kochen/index.md)

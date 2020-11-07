@@ -8,6 +8,8 @@
 
 [Gemüsenudeln](Gemuesenudeln.md)
 
+[Grießklößchen](griesskloesschen.md)
+
 [Kartoffelsalat](Kartoffelsalat.md)
 
 [Möhrensuppe](Moehrensuppe.md)
