@@ -21,16 +21,13 @@ Zutaten:
  * Vanillezucker
  * 100g Zucker
 
-
- Zubereitung:
- ----------------
+Zubereitung:
+----------------
    - Butter im Topf schmelzen
    - Eier trennen
    - alles zusammenrühren
    - Eischnee unterheben
    - Waffeleisen auf Stufe 3 stellen
-
-
 
 
 Beilagen:
