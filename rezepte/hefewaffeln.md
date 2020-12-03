@@ -32,10 +32,7 @@ Zubereitung:
  
 Beilagen:
 ---------
- * Puderzucker
  * Apfelmus
- * Nutella
- * Zimt-Zucker
  * Ahornsirup
  * Geschlagene Sahne
  * Rote Grütze
