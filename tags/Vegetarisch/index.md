@@ -1,14 +1,16 @@
-[](kuerbissuppe.md)
-
 [# Kürbislasagne](kuerbislasagne.md)
 
 [# Kürbismarmelade](kuerbismarmelade.md)
+
+[# Kürbissuppe](kuerbissuppe.md)
 
 [Crêpes](Crepes.md)
 
 [Gemüsenudeln](Gemuesenudeln.md)
 
 [Grießklößchen](griesskloesschen.md)
+
+[Hefewaffeln](hefewaffeln.md)
 
 [Kartoffelsalat](Kartoffelsalat.md)
 

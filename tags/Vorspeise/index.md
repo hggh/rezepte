@@ -1,4 +1,4 @@
-[](kuerbissuppe.md)
+[# Kürbissuppe](kuerbissuppe.md)
 
 [Grießklößchen](griesskloesschen.md)
 

@@ -1,8 +1,8 @@
-[](kuerbissuppe.md)
-
 [# Kürbislasagne](kuerbislasagne.md)
 
 [# Kürbismarmelade](kuerbismarmelade.md)
+
+[# Kürbissuppe](kuerbissuppe.md)
 
 [Amerikaner](Amerikaner.md)
 
@@ -21,6 +21,8 @@
 [Grießklößchen](griesskloesschen.md)
 
 [Haferflockenbollen](Haferflockenbollen.md)
+
+[Hefewaffeln](hefewaffeln.md)
 
 [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 
