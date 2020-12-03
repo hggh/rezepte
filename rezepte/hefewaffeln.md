@@ -7,7 +7,7 @@ tags:
 Hefewaffeln
 =====
 
-Knusprige Hefewaffeln auf dem belgischen Waffeleisen für 4-5 Personen
+Knusprige Hefewaffeln aus dem belgischen Waffeleisen für 4-5 Personen
 
 Zutaten:
 --------
