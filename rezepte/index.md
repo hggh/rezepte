@@ -52,6 +52,8 @@
 
 [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 
+[Rezept: französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
+
 [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
 [Schokoladentorte](Schokoladentorte.md)

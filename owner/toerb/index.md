@@ -14,6 +14,8 @@
 
 [Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)
 
+[Rezept: französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
+
 [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
 [Schokotröpfchen](schokotroepfchen.md)

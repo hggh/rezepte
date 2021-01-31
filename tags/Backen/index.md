@@ -16,6 +16,8 @@
 
 [Quiche Lorraine](quiche_lorraine.md)
 
+[Rezept: französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
+
 [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
 [Schokoladentorte](Schokoladentorte.md)
