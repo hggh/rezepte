@@ -13,6 +13,9 @@ Rezepte für Backen
 * [Mürbeteig](Muerbeteig.md)
 * [Pizza](pizza.md)
 * [Quiche Lorraine](quiche_lorraine.md)
+* [Rezept: französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
+
+  <img src="../../pics/macarons.jpg" width="30%" alt="macarons" title="macarons" />
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
   <img src="../../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />

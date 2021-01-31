@@ -9,6 +9,7 @@ Rezepte nach Kategorie
 * [Frühstück](Frühstück/index.md)
 * [Getränk](Getränk/index.md)
 * [Hauptgericht](Hauptgericht/index.md)
+* [Hauptspeise](Hauptspeise/index.md)
 * [Hühnchen](Hühnchen/index.md)
 * [Kochen](Kochen/index.md)
 * [Kuchen](Kuchen/index.md)

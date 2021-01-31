@@ -1,2 +1,4 @@
-[Grießklößchen](griesskloesschen.md)
+Rezepte für Hauptspeise
+=====================
 
+* [griesskloesschen](griesskloesschen.md)

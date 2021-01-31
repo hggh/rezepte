@@ -17,6 +17,7 @@ Alle Rezepte
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [Gemüsenudeln](Gemuesenudeln.md)
 * [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
+* [griesskloesschen](griesskloesschen.md)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
 
   <img src="../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
@@ -25,10 +26,14 @@ Alle Rezepte
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Haferkekse](Haferkekse.txt)
+* [Hefewaffeln](hefewaffeln.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [kuerbislasagne](kuerbislasagne.md)
+* [kuerbismarmelade](kuerbismarmelade.md)
+* [kuerbissuppe](kuerbissuppe.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Möhrensuppe](Moehrensuppe.md)
@@ -53,6 +58,9 @@ Alle Rezepte
 * [Ratatouille](Ratatouille.txt)
 * [Reis mit Kokonussmilch mit Curry](reis_kokosnussmilch_curry.md)
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
+* [Rezept: französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
+
+  <img src="../pics/macarons.jpg" width="30%" alt="macarons" title="macarons" />
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
@@ -60,6 +68,8 @@ Alle Rezepte
   <img src="../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+
+  <img src="../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Schokoladentorte](Schokoladentorte.md)
 

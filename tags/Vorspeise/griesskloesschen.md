@@ -1,3 +1,4 @@
+
 Grießklößchen
 =============
 
@@ -18,3 +19,4 @@ Leckere und schnell garende Grießklößchen. Zutaten sind für eine Person als 
 * Den Topf vom Herd nehmen und das Ei, bzw. die Eier, hinzugeben und verrühren.
 * Den Teig mit zwei feuchten Löffeln zu Klößchen formen und zum garen in die köchelnde Suppe geben.
 * Sobald die Klößchen aufsteigen, sollten sie durch sein.
+

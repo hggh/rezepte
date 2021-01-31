@@ -2,6 +2,7 @@ Rezepte für Langsam
 =====================
 
 * [Crêpes](Crepes.md)
+* [kuerbissuppe](kuerbissuppe.md)
 * [Overnight-Oats](Overnight-Oats.txt)
 * [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
