@@ -25,6 +25,8 @@ Rezepte von mirabilos
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+
+  <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 

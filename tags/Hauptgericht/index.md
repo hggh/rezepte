@@ -22,5 +22,7 @@ Rezepte für Hauptgericht
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+
+  <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln](waffeln.md)
