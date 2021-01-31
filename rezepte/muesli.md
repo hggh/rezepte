@@ -1,6 +1,7 @@
 ---
 owner: hggh
 tags:
+- Frühstück
 - Kochen
 - Vegetarisch
 ---

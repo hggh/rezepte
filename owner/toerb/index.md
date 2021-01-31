@@ -1,32 +1,17 @@
-[# Kürbislasagne](kuerbislasagne.md)
+Rezepte von toerb
+=====================
 
-[# Kürbismarmelade](kuerbismarmelade.md)
+* [Crêpes](Crepes.md)
+* [Pesto](pesto.md)
+* [Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)
+* [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
-[# Kürbissuppe](kuerbissuppe.md)
+  <img src="../../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
+* [Schokotröpfchen](schokotroepfchen.md)
 
-[Crêpes](Crepes.md)
-
-[Grießklößchen](griesskloesschen.md)
-
-[Hefewaffeln](hefewaffeln.md)
-
-[Pesto](pesto.md)
-
-[Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)
-
-[Rezept: französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
-
-[Russischer Zupfkuchen](russischer_zupfkuchen.md)
-
-[Schokotröpfchen](schokotroepfchen.md)
-
-[Schwedische Zimtschnecken (Kanelbullar)](schwedische_zimtschnecken.md)
-
-[Spritzgebäck](spritzgebaeck.md)
-
-[Spätzle](Spaetzle.md)
-
-[Zebrakuchen](zebrakuchen.md)
-
-[Zitronenlimonade](zitronenlimonade.md)
-
+  <img src="../../pics/schokotroepfchen.jpg" width="30%" alt="schokotroepfchen" title="schokotroepfchen" />
+* [Schwedische Zimtschnecken (Kanelbullar)](schwedische_zimtschnecken.md)
+* [Spritzgebäck](spritzgebaeck.md)
+* [Spätzle](Spaetzle.md)
+* [Zebrakuchen](zebrakuchen.md)
+* [Zitronenlimonade](zitronenlimonade.md)

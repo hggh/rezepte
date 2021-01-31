@@ -1,8 +1,10 @@
 ---
 owner: hggh
 tags:
+- Frühstück
 - Kochen
 - Hauptgericht
+- Nachtisch
 - Vegetarisch
 - Süßspeise
 ---
@@ -18,19 +20,16 @@ Zutaten:
  * 1x Backpulver
  * Vanillezucker
  * 100g Zucker
- 
- 
- Zubereitung:
- ----------------
+
+Zubereitung:
+----------------
    - Butter im Topf schmelzen
    - Eier trennen
    - alles zusammenrühren
    - Eischnee unterheben
    - Waffeleisen auf Stufe 3 stellen
-   
-   
- 
- 
+
+
 Beilagen:
 ---------
  * Puderzucker

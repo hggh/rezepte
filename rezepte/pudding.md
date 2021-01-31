@@ -2,6 +2,7 @@
 owner: hggh
 tags:
 - Kochen
+- Nachtisch
 - Süßspeise
 - Vegetarisch
 ---
@@ -15,8 +16,8 @@ Zutaten (Variante ohne Kakaopulver):
  * 0.5 Liter Milch
  * 3 EL gestrichen (~20g) Stärke (z.B. Mondamin)
  * 2x EL gestrichen Zucker
- 
- 
+
+
  Zubereitung:
 ------------------
 

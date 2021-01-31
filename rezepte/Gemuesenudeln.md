@@ -17,14 +17,14 @@ Zutaten: (2 Personen)
  * 200 g Kirschtomaten
  * 3 El Olivenöl
  * Salz / Pfeffer
- 
+
 
 
 Zubereitung:
 --------------
 
  - Schalotte fein würfeln
- - Möhren und Zucchini putzen. Möhren erst mit einem Sparschäler schälen, dann rundum mit dem Schäler in feine Streifen schneiden. 
+ - Möhren und Zucchini putzen. Möhren erst mit einem Sparschäler schälen, dann rundum mit dem Schäler in feine Streifen schneiden.
  - Zucchini ebenso bis zu den Kernen in Streifen schneiden.
  - Käse mit dem Sparschäler in Scheiben hobeln und grob zerbrechen
  - Kirschtomaten halbieren.

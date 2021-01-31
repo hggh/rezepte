@@ -1,4 +1,4 @@
-[# Kürbissuppe](kuerbissuppe.md)
+Rezepte für Vorspeise
+=====================
 
-[Grießklößchen](griesskloesschen.md)
-
+* [Porridge „zuhause“](Porridge.txt)

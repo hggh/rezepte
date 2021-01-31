@@ -1,8 +1,14 @@
-[Curry Geschnetzeltes](curry-geschnetzeltes.md)
+Rezepte für Fleisch
+=====================
 
-[Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
+* [Biermarinade](Biermarinade.txt)
+* [Curry Geschnetzeltes](curry-geschnetzeltes.md)
+* [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
+* [Noodles with twice meat](Noodles-twice-meat.txt)
 
-[Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)
+  <img src="../../pics/Noodles-twice-meat.jpg" width="30%" alt="Noodles-twice-meat" title="Noodles-twice-meat" />
+* [Paprikagemüse mit Reis](Paprikagemüse.txt)
 
-[Quiche Lorraine](quiche_lorraine.md)
-
+  <img src="../../pics/Paprikagem%C3%BCse.jpg" width="30%" alt="Paprikagemüse: beim Kochen" title="Paprikagemüse:&#10;beim Kochen" />
+* [Putenbruststreifen mit Dijonsenfsoße und Bandnudeln](putenbrust_dijonsenf.md)
+* [Quiche Lorraine](quiche_lorraine.md)

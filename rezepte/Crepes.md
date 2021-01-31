@@ -3,6 +3,7 @@ owner: toerb
 tags:
 - Süßspeise
 - Langsam
+- Nachtisch
 - Party
 - Vegetarisch
 ---
@@ -20,7 +21,7 @@ Zutaten:
  * 2 Eier
  * 50 g Butter flüssig
  * etwas Salz
- 
+
  Zubereitung:
 -------------
 

@@ -1,8 +1,12 @@
-[# Kürbislasagne](kuerbislasagne.md)
+Rezepte für Party
+=====================
 
-[# Kürbismarmelade](kuerbismarmelade.md)
+* [Crêpes](Crepes.md)
+* [Pfannkuchen (Hefepfannkuchen)](Pfannkuchen.htm)
 
-[# Kürbissuppe](kuerbissuppe.md)
+  <img src="../../pics/Pfannkuchen.jpg" width="30%" alt="Pfannkuchen: Pannekōche, eßbereit" title="Pfannkuchen:&#10;Pannekōche, eßbereit" />
+* [Porridge „zuhause“](Porridge.txt)
+* [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+* [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
-[Crêpes](Crepes.md)
-
+  <img src="../../pics/Solstice%2BYule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />
