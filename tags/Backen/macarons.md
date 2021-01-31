@@ -43,7 +43,7 @@ Die Baisermasse wird in einen stabilen Spritzbeutel mit einer kleinen Lochtülle
 Mit Hilfe des Spritzbeutels werden auf Backpapier ca. 2,5 cm große Kreise gesetzt.
 Die Teigkreise sollten etwas Platz um sich herum haben, da sie noch etwas verlaufen werden.
 
-![Macaronschalen auf dem Blech](/pics/macarons_schalen.jpg)
+![Macaronschalen auf dem Blech](../../pics/macarons_schalen.jpg)
 
 Der Ofen kann nun auf 145 °C Ober-/Unterhitze vorgeheizt werden.
 Nachdem die ersten Schalen 30 Minuten geruht haben, können sie auf einem dicken Backblech für 19 Minuten gebacken werden.
@@ -92,20 +92,20 @@ Zum Auftauen können die Macarons einfach über Nacht in den Kühlschrank gelegt
 Je nach Anlass würde ich unterschiedliche Verpackungsgrößen wählen, von ganz wenige (2-4 Stück), bis viele (10-12 Stück).
 Auf diese Weise kann man nach einem erfolgreichen Backtag mehrere Wochen vom Macaronvorrat im Tiefkühlschrank zehren.
 
-![Macarons auf einem Untersetzer](/pics/macarons.jpg)
+![Macarons auf einem Untersetzer](../../pics/macarons.jpg)
 
 ## Exkurs: Mandeln blanchieren
 Um Mandeln von ihrer Haut zu befreien, kann man sie blanchieren, also für kurze Zeit in heißes Wasser geben.
 Dafür wird ein Topf mit reichlich Wasser aufgesetzt und zum Kochen gebracht.
 Darin werden die Mandeln mit Haut für circa drei Minuten gekocht.
 
-![Mandeln in sprudelndem Wasser](/pics/mandeln_blanchieren1.jpg)
+![Mandeln in sprudelndem Wasser](../../pics/mandeln_blanchieren1.jpg)
 
 Nach dieser Zeit werden die Mandeln in ein Sieb gegossen und mit kaltem Wasser abgeschreckt.
 Nun lassen sich die Mandeln ganz einfach häuten, indem man mit der einen Hand ein kleines Loch in die Haut macht und die Mandel dann ausdrückt.
 Zurück bleibt zum einen die Haut, die danach entsorgt werden kann, und zum anderen die gehäuteten Mandeln.
 
-![Blanchierte Mandeln](/pics/mandeln_blanchieren2.jpg)
+![Blanchierte Mandeln](../../pics/mandeln_blanchieren2.jpg)
 
 Bevor die gehäuteten Mandeln weiterverarbeitet werden, sollten sie noch getrocknet werden.
 Dafür können sie, auf ein Backpapier ausgebreitet, für 15-20 Minuten bei ungefähr 80 °C in den Ofen gegeben werden.
