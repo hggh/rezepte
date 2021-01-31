@@ -3,8 +3,8 @@ owner: toerb
 tags:
 - Backen
 ---
-Rezept: französische Macarons mit Schokoladen- und Himbeerfüllung
-=================================================================
+Französische Macarons mit Schokoladen- und Himbeerfüllung
+=========================================================
 
 Das Macaron ist eine Art süßer, französischer Doppelkeks mit einem Durchmesser von drei bis fünf Zentimetern :straight_ruler:.
 Es besteht hauptsächlich aus zwei mit Lebensmittelfarbe gefärbten Schalen und einer sehr intensiv schmeckenden Füllung :yum:.
