@@ -19,8 +19,7 @@ Zutaten:
  * 6 Eier
  * 2 Packungen Vanillezucker
  * 200 g Hagelzucker
- 
- 
+
 Zubereitung:
 ----------------
  * Den Würfel Hefe in lauwarmer Milch auflösen.
@@ -28,12 +27,10 @@ Zubereitung:
  * Ca. eine halbe Stunde im Warmen gehen lassen. Der Teig sollte sich ungefähr verdoppelt haben.
  * Den Teig nochmal verkneten und dabei den Hagelzucker zugeben.
  * Die Waffeln auf beiden Seiten für 2-3 Minuten im belgischen Waffeleisen ausbacken.
- 
- 
+
 Beilagen:
 ---------
  * Apfelmus
  * Ahornsirup
  * Geschlagene Sahne
  * Rote Grütze
-
