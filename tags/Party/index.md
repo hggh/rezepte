@@ -12,6 +12,9 @@ Rezepte für Party
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
 
   <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
+* [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
+
+  <img src="../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
   <img src="../../pics/Solstice%2BYule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />

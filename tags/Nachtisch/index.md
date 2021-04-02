@@ -14,4 +14,7 @@ Rezepte für Nachtisch
   <img src="../../pics/Pfannkuchen.jpg" width="30%" alt="Pfannkuchen: Pannekōche, eßbereit" title="Pfannkuchen:&#10;Pannekōche, eßbereit" />
 * [Porridge „zuhause“](Porridge.txt)
 * [Pudding](pudding.md)
-* [Waffeln](waffeln.md)
+* [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
+
+  <img src="../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln „klassisch“](waffeln.md)
