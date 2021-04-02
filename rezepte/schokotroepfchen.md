@@ -27,4 +27,4 @@ Fertiger Teig ungefähr eine Stunde im Kühlschrank ruhen lassen.
 
 Mit einem Esslöffel kleine Kugeln formen und auf ein mit Backpapier ausgelegtes Blech drücken. Plätzchen auf 190 °C in Ober- und Unterhitze ausbacken.
 
-![Schokotröpfchen](/pics/schokotroepfchen.jpg)
+![Schokotröpfchen](../pics/schokotroepfchen.jpg)
