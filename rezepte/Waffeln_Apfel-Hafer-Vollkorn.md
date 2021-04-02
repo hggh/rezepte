@@ -1,5 +1,6 @@
 ---
 owner: sarah
+name: Waffeln (Apfel-Hafer-Vollkorn)
 tags:
 - Frühstück
 - Hauptgericht

@@ -1,5 +1,6 @@
 ---
 owner: hggh
+name: Waffeln „klassisch“
 tags:
 - Frühstück
 - Kochen
