@@ -38,6 +38,8 @@ Rezepte für Kochen
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+
+  <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Spätzle](Spaetzle.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln](waffeln.md)

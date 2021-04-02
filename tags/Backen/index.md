@@ -6,6 +6,9 @@ Rezepte für Backen
 * [Bienenstich](bienenstich.md)
 * [Brownies](brownies.md)
 * [Fladenbrot mit Zahtar](Fladenbrot-mit-Zahtar.txt)
+* [Französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
+
+  <img src="../../pics/macarons.jpg" width="30%" alt="macarons" title="macarons" />
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Haferkekse](Haferkekse.txt)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)

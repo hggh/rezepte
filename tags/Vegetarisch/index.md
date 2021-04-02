@@ -11,6 +11,7 @@ Rezepte für Vegetarisch
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [Gemüsenudeln](Gemuesenudeln.md)
 * [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
+* [griesskloesschen](griesskloesschen.md)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
 
   <img src="../../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
@@ -18,9 +19,13 @@ Rezepte für Vegetarisch
   <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferkekse](Haferkekse.txt)
+* [Hefewaffeln](hefewaffeln.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [kuerbislasagne](kuerbislasagne.md)
+* [kuerbismarmelade](kuerbismarmelade.md)
+* [kuerbissuppe](kuerbissuppe.md)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Müsli](muesli.md)
 * [Overnight-Oats](Overnight-Oats.txt)
@@ -37,6 +42,8 @@ Rezepte für Vegetarisch
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
+
+  <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Spätzle](Spaetzle.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
