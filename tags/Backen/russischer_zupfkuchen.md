@@ -33,4 +33,4 @@ Die Füllung wird nun in die mit Teig ausgelegte Springform gegossen und der res
 Die Backzeit beträgt beim auf 175&nbsp;°C vorgeheizten Backofen ca. 55 bis 65 Minuten.
 
 
-![Russischer Zupfkuchen](/pics/russischer_zupfkuchen.jpg)
+![Russischer Zupfkuchen](../../pics/russischer_zupfkuchen.jpg)

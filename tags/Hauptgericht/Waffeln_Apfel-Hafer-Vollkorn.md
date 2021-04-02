@@ -20,3 +20,5 @@ Zubereitung
 - Eier etc. mit dem Mehl mischen, dann Milch zugeben
 - Apfelraspeln unter den Teig heben
 - Wie gewohnt im Waffeleisen (mit Butter ausgefettet) backen
+
+![fertige Waffeln auf einem Teller](../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg)
