@@ -12,7 +12,6 @@ Rezepte für Süßspeise
   <img src="../../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
   <img src="../../pics/Grie%C3%9Fpudding.2.jpg" width="30%" alt="Grießpudding (2): Eischnee, mit der Gabel geschlagen (wie bei Oma — ich kann’s noch!)" title="Grießpudding (2):&#10;Eischnee, mit der Gabel geschlagen&#10;(wie bei Oma — ich kann’s noch!)" />
   <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
-* [Hefewaffeln](hefewaffeln.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [Overnight-Oats](Overnight-Oats.txt)
@@ -26,6 +25,7 @@ Rezepte für Süßspeise
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
 
   <img src="../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
 * [Waffeln „klassisch“](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 

@@ -19,7 +19,6 @@ Rezepte für Vegetarisch
   <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferkekse](Haferkekse.txt)
-* [Hefewaffeln](hefewaffeln.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
@@ -50,6 +49,7 @@ Rezepte für Vegetarisch
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
 
   <img src="../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
 * [Waffeln „klassisch“](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 

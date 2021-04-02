@@ -29,7 +29,6 @@ Alle Rezepte
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Haferkekse](Haferkekse.txt)
-* [Hefewaffeln](hefewaffeln.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
@@ -86,6 +85,7 @@ Alle Rezepte
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
 
   <img src="../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
 * [Waffeln „klassisch“](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 

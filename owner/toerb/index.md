@@ -6,7 +6,6 @@ Rezepte von toerb
 
   <img src="../../pics/macarons.jpg" width="30%" alt="macarons" title="macarons" />
 * [griesskloesschen](griesskloesschen.md)
-* [Hefewaffeln](hefewaffeln.md)
 * [kuerbislasagne](kuerbislasagne.md)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)
@@ -21,5 +20,6 @@ Rezepte von toerb
 * [Schwedische Zimtschnecken (Kanelbullar)](schwedische_zimtschnecken.md)
 * [Spritzgebäck](spritzgebaeck.md)
 * [Spätzle](Spaetzle.md)
+* [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
 * [Zebrakuchen](zebrakuchen.md)
 * [Zitronenlimonade](zitronenlimonade.md)

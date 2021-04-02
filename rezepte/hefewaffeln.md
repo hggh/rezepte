@@ -1,5 +1,6 @@
 ---
 owner: toerb
+name: Waffeln (belgische Hefewaffeln)
 tags:
 - Vegetarisch
 - Süßspeise
