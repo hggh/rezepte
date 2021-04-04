@@ -2,6 +2,7 @@ Rezepte nach Eigner
 =====================
 
 * [Christine Gitter](Christine%20Gitter/index.md)
+* [Freuwesen](Freuwesen/index.md)
 * [Haferkater](Haferkater/index.md)
 * [hggh](hggh/index.md)
 * [JettaRosewater](JettaRosewater/index.md)

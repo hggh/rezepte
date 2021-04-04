@@ -1,6 +1,9 @@
 Rezepte für Frühstück
 =====================
 
+* [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
+
+  <img src="../../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
 * [Müsli](muesli.md)
 * [Overnight-Oats](Overnight-Oats.txt)
 * [Porridge „zuhause“](Porridge.txt)

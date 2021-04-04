@@ -2,6 +2,9 @@ Rezepte für Party
 =====================
 
 * [Crêpes](Crepes.md)
+* [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
+
+  <img src="../../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
 * [kuerbislasagne](kuerbislasagne.md)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)

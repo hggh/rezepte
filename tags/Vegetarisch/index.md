@@ -22,6 +22,9 @@ Rezepte für Vegetarisch
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
+
+  <img src="../../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
 * [kuerbislasagne](kuerbislasagne.md)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)

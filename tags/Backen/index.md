@@ -11,6 +11,9 @@ Rezepte für Backen
   <img src="../../pics/macarons.jpg" width="30%" alt="macarons" title="macarons" />
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Haferkekse](Haferkekse.txt)
+* [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
+
+  <img src="../../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Mürbeteig](Muerbeteig.md)
