@@ -1,6 +1,7 @@
 Alle Rezepte
 =====================
-* [American Apple Crumble](Amecircan-Apple-Crumble.md)
+
+* [American Apple Crumble](American-Apple-Crumble.md)
 * [Amerikaner](Amerikaner.md)
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Bienenstich](bienenstich.md)
@@ -42,6 +43,7 @@ Alle Rezepte
 * [kuerbislasagne](kuerbislasagne.md)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)
+* [Käsekuchen](Käsekuchen.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Möhrensuppe](Moehrensuppe.md)

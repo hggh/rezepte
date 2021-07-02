@@ -1,6 +1,7 @@
 Rezepte für Vegetarisch
 =====================
 
+* [American Apple Crumble](American-Apple-Crumble.md)
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)

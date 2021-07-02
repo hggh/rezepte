@@ -1,6 +1,7 @@
 Rezepte für Obst
 =====================
 
+* [American Apple Crumble](American-Apple-Crumble.md)
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
 

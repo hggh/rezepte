@@ -5,6 +5,7 @@ Rezepte für Kuchen
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Bienenstich](bienenstich.md)
 * [Brownies](brownies.md)
+* [Käsekuchen](Käsekuchen.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)

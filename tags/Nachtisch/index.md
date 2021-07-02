@@ -1,6 +1,7 @@
 Rezepte für Nachtisch
 =====================
 
+* [American Apple Crumble](American-Apple-Crumble.md)
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
