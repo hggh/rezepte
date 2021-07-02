@@ -16,6 +16,7 @@ Rezepte für Kochen
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Müsli](muesli.md)
 * [Noodles with twice meat](Noodles-twice-meat.txt)

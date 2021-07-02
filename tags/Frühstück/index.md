@@ -1,6 +1,7 @@
 Rezepte für Frühstück
 =====================
 
+* [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
 * [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
 
   <img src="../../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
