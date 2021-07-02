@@ -3,6 +3,7 @@ Rezepte für Hauptgericht
 
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
 * [gefüllte Paprika](gefuellte_paprika.md)
+* [griesskloesschen](griesskloesschen.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Noodles with twice meat](Noodles-twice-meat.txt)

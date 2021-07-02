@@ -2,7 +2,7 @@
 owner: toerb
 tags:
 - Vorspeise
-- Hauptspeise
+- Hauptgericht
 - Vegetarisch
 ---
 
