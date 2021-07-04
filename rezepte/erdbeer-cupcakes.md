@@ -7,9 +7,13 @@ tags:
 ---
 
 # Erdbeer-Cupcakes
-Dieses Rezept ergibt zwölf leckere Erdbeer-Cupcakes mit Frosting und Pürree.
+Dieses Rezept ergibt zwölf leckere Erdbeer-Cupcakes mit Frosting und Püree.
 
 ## Zutaten
+
+### Püree
+* 0,5 bis 1 kg Erdbeeren (je nach Qualität)
+* 2 EL Zucker
 
 ### Cupcakes
 * 125 g Butter
@@ -18,27 +22,24 @@ Dieses Rezept ergibt zwölf leckere Erdbeer-Cupcakes mit Frosting und Pürree.
 * 1/2 TL Natron
 * 1/2 TL Backpulver
 * 1 Pr. Salz
-* 130 g Erdbeerpürree
+* 100 ml abgekühltes Erdbeerpüree 
 * 175 g Mehl
 
 ### Frosting
 * 150 g weiche Butter
 * 4 EL Puderzucker
 * 150 g Frischkäse
-* 2 EL Erdbeerpürree/-marmelade
-
-### Pürree
-* 0,5 bis 1 kg Erdbeeren (je nach Qualität)
-* 2 EL Zucker
+* 2 EL abgekühltes Erdbeerpüree
 
 ## Zubereitung
 
-### Pürree
+### Püree
 * Alle Erdbeeren waschen und Grün entfernen
 * 12 schöne Erdbeeren zur Deko beiseite legen
 * Die restlichen Erdbeeren pürieren und zusammen mit dem Zucker kochen
 * Ca. 5 Minuten köcheln lassen
 * Abschmecken und nach Belieben Zucker und Zitronensaft zugeben
+* Das Püree vor der weiteren Verarbeitung abkühlen lassen
 
 ### Cupcakes
 * Die Butter zusammen mit dem Zucker und den Eiern schaumig rühren
@@ -49,6 +50,6 @@ Dieses Rezept ergibt zwölf leckere Erdbeer-Cupcakes mit Frosting und Pürree.
 
 ### Frosting
 * Die Butter mit dem Zucker schaumig rühren
-* Frischkäse und Erdbeerpürree löffelweise hinzugeben und verrühren
+* Frischkäse und Erdbeerpüree löffelweise hinzugeben und verrühren
 * Frosting mit einem Spritzbeutel auf den Cupcakes verteilen
 * Als letzes noch die Cupcakes mit den am Anfang zurückgelegten Erdbeeren dekorieren
