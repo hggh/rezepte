@@ -10,6 +10,7 @@ Alle Rezepte
 * [Brownies](brownies.md)
 * [Crêpes](Crepes.md)
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
+* [erdbeer-cupcakes](erdbeer-cupcakes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 
   <img src="../pics/Feldsalat.1.jpg" width="30%" alt="Feldsalat (1): Salat vor Zugabe des Dressings (das war zu wenig, ich mußte noch etwas Dressing nachmachen)" title="Feldsalat (1):&#10;Salat vor Zugabe des Dressings&#10;(das war zu wenig, ich mußte noch&#10;etwas Dressing nachmachen)" />
@@ -35,6 +36,7 @@ Alle Rezepte
 * [Haferkekse](Haferkekse.txt)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
+* [johannisbeer_baiser_kuchen](johannisbeer_baiser_kuchen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
 * [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)

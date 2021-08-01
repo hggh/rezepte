@@ -6,6 +6,8 @@ Rezepte für Kuchen
 * [Bienenstich](bienenstich.md)
 * [Brownies](brownies.md)
 * [Käsekuchen](Käsekuchen.md)
+* [erdbeer-cupcakes](erdbeer-cupcakes.md)
+* [johannisbeer_baiser_kuchen](johannisbeer_baiser_kuchen.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
