@@ -92,6 +92,7 @@ Alle Rezepte
 * [Skúffukaka (isländischer Schokoladenkuchen mit Lakritz)](Skúffukaka.txt)
 * [Spritzgebäck](spritzgebaeck.md)
 * [Spätzle](Spaetzle.md)
+* [tiramisu](tiramisu.md)
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)

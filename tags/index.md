@@ -13,6 +13,7 @@ Rezepte nach Kategorie
 * [Kochen](Kochen/index.md)
 * [Kuchen](Kuchen/index.md)
 * [Langsam](Langsam/index.md)
+* [Nachspeise](Nachspeise/index.md)
 * [Nachtisch](Nachtisch/index.md)
 * [Nuss](Nuss/index.md)
 * [Obst](Obst/index.md)

@@ -52,6 +52,7 @@ Rezepte für Vegetarisch
   <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Spätzle](Spaetzle.md)
+* [tiramisu](tiramisu.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
 

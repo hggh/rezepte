@@ -27,5 +27,6 @@ Rezepte von toerb
 * [Spritzgebäck](spritzgebaeck.md)
 * [Spätzle](Spaetzle.md)
 * [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
+* [tiramisu](tiramisu.md)
 * [Zebrakuchen](zebrakuchen.md)
 * [Zitronenlimonade](zitronenlimonade.md)
