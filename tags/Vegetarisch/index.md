@@ -44,6 +44,7 @@ Rezepte für Vegetarisch
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
+* [Rote Paprika Süßkartoffel-Suppe](Suesskartoffelsuppe.md)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
 

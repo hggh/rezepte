@@ -71,6 +71,7 @@ Alle Rezepte
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
+* [Rote Paprika Süßkartoffel-Suppe](Suesskartoffelsuppe.md)
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
   <img src="../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
