@@ -3,6 +3,7 @@ Rezepte für Hauptgericht
 
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
 * [gefüllte Paprika](gefuellte_paprika.md)
+* [griesskloesschen](griesskloesschen.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Noodles with twice meat](Noodles-twice-meat.txt)
@@ -25,4 +26,7 @@ Rezepte für Hauptgericht
 
   <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
-* [Waffeln](waffeln.md)
+* [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
+
+  <img src="../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln „klassisch“](waffeln.md)

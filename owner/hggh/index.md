@@ -13,6 +13,7 @@ Rezepte von hggh
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [Käsekuchen](Käsekuchen.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Möhrensuppe](Moehrensuppe.md)
@@ -27,5 +28,5 @@ Rezepte von hggh
 
   <img src="../../pics/Schokoladentorte.jpg" width="30%" alt="Schokoladentorte" title="Schokoladentorte" />
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)
-* [Waffeln](waffeln.md)
+* [Waffeln „klassisch“](waffeln.md)
 * [Zitronenkuchen](zitronenkuchen.md)

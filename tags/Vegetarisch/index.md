@@ -1,6 +1,7 @@
 Rezepte für Vegetarisch
 =====================
 
+* [American Apple Crumble](American-Apple-Crumble.md)
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
 * [erdbeer-cupcakes](erdbeer-cupcakes.md)
@@ -20,10 +21,13 @@ Rezepte für Vegetarisch
   <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferkekse](Haferkekse.txt)
-* [Hefewaffeln](hefewaffeln.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
+* [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
+
+  <img src="../../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
 * [kuerbislasagne](kuerbislasagne.md)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)
@@ -41,6 +45,7 @@ Rezepte für Vegetarisch
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
+* [Rote Paprika Süßkartoffel-Suppe](Suesskartoffelsuppe.md)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
 
@@ -49,7 +54,11 @@ Rezepte für Vegetarisch
 * [Spätzle](Spaetzle.md)
 * [tiramisu](tiramisu.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
-* [Waffeln](waffeln.md)
+* [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
+
+  <img src="../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
+* [Waffeln „klassisch“](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
   <img src="../../pics/Solstice%2BYule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />

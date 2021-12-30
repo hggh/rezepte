@@ -1,6 +1,7 @@
 Alle Rezepte
 =====================
 
+* [American Apple Crumble](American-Apple-Crumble.md)
 * [Amerikaner](Amerikaner.md)
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Bienenstich](bienenstich.md)
@@ -31,15 +32,19 @@ Alle Rezepte
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Haferkekse](Haferkekse.txt)
-* [Hefewaffeln](hefewaffeln.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [johannisbeer_baiser_kuchen](johannisbeer_baiser_kuchen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
+* [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
+
+  <img src="../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
 * [kuerbislasagne](kuerbislasagne.md)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)
+* [Käsekuchen](Käsekuchen.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Möhrensuppe](Moehrensuppe.md)
@@ -66,6 +71,7 @@ Alle Rezepte
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
+* [Rote Paprika Süßkartoffel-Suppe](Suesskartoffelsuppe.md)
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
   <img src="../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
@@ -88,7 +94,11 @@ Alle Rezepte
 * [tiramisu](tiramisu.md)
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
-* [Waffeln](waffeln.md)
+* [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
+
+  <img src="../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
+* [Waffeln „klassisch“](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
   <img src="../pics/Solstice%2BYule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />

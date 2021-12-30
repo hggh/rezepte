@@ -14,6 +14,7 @@ Rezepte von mirabilos
   <img src="../../pics/Grie%C3%9Fpudding.2.jpg" width="30%" alt="Grießpudding (2): Eischnee, mit der Gabel geschlagen (wie bei Oma — ich kann’s noch!)" title="Grießpudding (2):&#10;Eischnee, mit der Gabel geschlagen&#10;(wie bei Oma — ich kann’s noch!)" />
   <img src="../../pics/Grie%C3%9Fpudding.3.jpg" width="30%" alt="Grießpudding (3): fertig angerichtet mit Obst" title="Grießpudding (3):&#10;fertig angerichtet mit Obst" />
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
+* [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 
   <img src="../../pics/Paprikagem%C3%BCse.jpg" width="30%" alt="Paprikagemüse: beim Kochen" title="Paprikagemüse:&#10;beim Kochen" />

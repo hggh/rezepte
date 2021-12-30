@@ -16,6 +16,7 @@ Rezepte für Kochen
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
+* [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Müsli](muesli.md)
 * [Noodles with twice meat](Noodles-twice-meat.txt)
@@ -42,7 +43,10 @@ Rezepte für Kochen
   <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Spätzle](Spaetzle.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
-* [Waffeln](waffeln.md)
+* [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
+
+  <img src="../../pics/Waffeln_Apfel-Hafer-Vollkorn.jpg" width="30%" alt="Waffeln_Apfel-Hafer-Vollkorn" title="Waffeln_Apfel-Hafer-Vollkorn" />
+* [Waffeln „klassisch“](waffeln.md)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 
   <img src="../../pics/Solstice%2BYule_Brew.jpg" width="30%" alt="Solstice+Yule_Brew" title="Solstice+Yule_Brew" />
