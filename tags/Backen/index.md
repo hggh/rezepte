@@ -27,6 +27,7 @@ Rezepte für Backen
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
   <img src="../../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
+* [Rüblitorte](rueblitorte.md)
 * [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Schokoladentorte](Schokoladentorte.md)
 

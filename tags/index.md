@@ -21,6 +21,7 @@ Rezepte nach Kategorie
 * [Plätzchen](Plätzchen/index.md)
 * [Schokolade](Schokolade/index.md)
 * [Schwein](Schwein/index.md)
+* [Snacks](Snacks/index.md)
 * [Sommer](Sommer/index.md)
 * [Suppe](Suppe/index.md)
 * [Süßspeise](Süßspeise/index.md)

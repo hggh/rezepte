@@ -19,5 +19,6 @@ Mehl, Zucker, Salz, gestückelte Butter und Margarine, Eigelb und Schokotröpfch
 Fertiger Teig ungefähr eine Stunde im Kühlschrank ruhen lassen.
 
 Mit einem Esslöffel kleine Kugeln formen und auf ein mit Backpapier ausgelegtes Blech drücken. Plätzchen auf 190 °C in Ober- und Unterhitze ausbacken.
+Backzeit ist zwischen 18 und 22 Minuten.
 
 ![Schokotröpfchen](../../pics/schokotroepfchen.jpg)
