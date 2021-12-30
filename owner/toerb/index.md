@@ -6,6 +6,7 @@ Rezepte von toerb
 * [Französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
 
   <img src="../../pics/macarons.jpg" width="30%" alt="macarons" title="macarons" />
+* [Gebrannte Mandeln](gebrannte_mandeln.md)
 * [griesskloesschen](griesskloesschen.md)
 * [Hefewaffeln](hefewaffeln.md)
 * [johannisbeer_baiser_kuchen](johannisbeer_baiser_kuchen.md)
@@ -17,6 +18,7 @@ Rezepte von toerb
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
   <img src="../../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
+* [Rüblitorte](rueblitorte.md)
 * [Schokotröpfchen](schokotroepfchen.md)
 
   <img src="../../pics/schokotroepfchen.jpg" width="30%" alt="schokotroepfchen" title="schokotroepfchen" />

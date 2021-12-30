@@ -8,6 +8,7 @@ Rezepte für Süßspeise
 
   <img src="../../pics/Feldsalat.1.jpg" width="30%" alt="Feldsalat (1): Salat vor Zugabe des Dressings (das war zu wenig, ich mußte noch etwas Dressing nachmachen)" title="Feldsalat (1):&#10;Salat vor Zugabe des Dressings&#10;(das war zu wenig, ich mußte noch&#10;etwas Dressing nachmachen)" />
   <img src="../../pics/Feldsalat.2.jpg" width="30%" alt="Feldsalat (2): Salat mit Dressing vermischt" title="Feldsalat (2):&#10;Salat mit Dressing vermischt" />
+* [Gebrannte Mandeln](gebrannte_mandeln.md)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
 
   <img src="../../pics/Grie%C3%9Fpudding.1.jpg" width="30%" alt="Grießpudding (1): von der heißen Platte genommen und mit Eigelb verrührt" title="Grießpudding (1):&#10;von der heißen Platte genommen und mit Eigelb verrührt" />
