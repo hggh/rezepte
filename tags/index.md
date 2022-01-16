@@ -10,6 +10,7 @@ Rezepte nach Kategorie
 * [Getränk](Getränk/index.md)
 * [Hauptgericht](Hauptgericht/index.md)
 * [Hühnchen](Hühnchen/index.md)
+* [Indisch](Indisch/index.md)
 * [Kochen](Kochen/index.md)
 * [Kuchen](Kuchen/index.md)
 * [Langsam](Langsam/index.md)

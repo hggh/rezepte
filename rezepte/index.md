@@ -8,8 +8,10 @@ Alle Rezepte
 * [Biermarinade](Biermarinade.txt)
 * [Blaukraut](blaukraut.md)
 * [Brownies](brownies.md)
+* [Chicken Tikka Masala](chicken_tikka_masala.md)
 * [Crêpes](Crepes.md)
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
+* [dampfnudeln](dampfnudeln.md)
 * [erdbeer-cupcakes](erdbeer-cupcakes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 

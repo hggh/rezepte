@@ -1,7 +1,9 @@
 Rezepte von toerb
 =====================
 
+* [Chicken Tikka Masala](chicken_tikka_masala.md)
 * [Crêpes](Crepes.md)
+* [dampfnudeln](dampfnudeln.md)
 * [erdbeer-cupcakes](erdbeer-cupcakes.md)
 * [Französische Macarons mit Schokoladen- und Himbeerfüllung](macarons.md)
 

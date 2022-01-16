@@ -3,6 +3,7 @@ Rezepte für Süßspeise
 
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
+* [dampfnudeln](dampfnudeln.md)
 * [erdbeer-cupcakes](erdbeer-cupcakes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 
