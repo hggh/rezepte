@@ -1,7 +1,9 @@
 Rezepte für Hauptgericht
 =====================
 
+* [Chicken Tikka Masala](chicken_tikka_masala.md)
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
+* [dampfnudeln](dampfnudeln.md)
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [griesskloesschen](griesskloesschen.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)

@@ -3,7 +3,9 @@ Rezepte für Kochen
 
 * [Biermarinade](Biermarinade.txt)
 * [Blaukraut](blaukraut.md)
+* [Chicken Tikka Masala](chicken_tikka_masala.md)
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
+* [dampfnudeln](dampfnudeln.md)
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [Gemüsenudeln](Gemuesenudeln.md)
 * [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
