@@ -8,8 +8,11 @@ Alle Rezepte
 * [Biermarinade](Biermarinade.txt)
 * [Blaukraut](blaukraut.md)
 * [Brownies](brownies.md)
+* [Chicken Tikka Masala](chicken_tikka_masala.md)
 * [Crêpes](Crepes.md)
 * [Curry Geschnetzeltes](curry-geschnetzeltes.md)
+* [dampfnudeln](dampfnudeln.md)
+* [erdbeer-cupcakes](erdbeer-cupcakes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 
   <img src="../pics/Feldsalat.1.jpg" width="30%" alt="Feldsalat (1): Salat vor Zugabe des Dressings (das war zu wenig, ich mußte noch etwas Dressing nachmachen)" title="Feldsalat (1):&#10;Salat vor Zugabe des Dressings&#10;(das war zu wenig, ich mußte noch&#10;etwas Dressing nachmachen)" />
@@ -21,6 +24,7 @@ Alle Rezepte
   <img src="../pics/macarons.mandeln_blanchieren_1.jpg" width="30%" alt="macarons (mandeln_blanchieren_1)" title="macarons (mandeln_blanchieren_1)" />
   <img src="../pics/macarons.mandeln_blanchieren_2.jpg" width="30%" alt="macarons (mandeln_blanchieren_2)" title="macarons (mandeln_blanchieren_2)" />
   <img src="../pics/macarons.schalen.jpg" width="30%" alt="macarons (schalen)" title="macarons (schalen)" />
+* [Gebrannte Mandeln](gebrannte_mandeln.md)
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [Gemüsenudeln](Gemuesenudeln.md)
 * [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
@@ -35,6 +39,7 @@ Alle Rezepte
 * [Haferkekse](Haferkekse.txt)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
+* [johannisbeer_baiser_kuchen](johannisbeer_baiser_kuchen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
 * [Kartoffelsalat](Kartoffelsalat.md)
 * [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
@@ -71,9 +76,11 @@ Alle Rezepte
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
+* [Rote Paprika Süßkartoffel-Suppe](Suesskartoffelsuppe.md)
 * [Russischer Zupfkuchen](russischer_zupfkuchen.md)
 
   <img src="../pics/russischer_zupfkuchen.jpg" width="30%" alt="russischer_zupfkuchen" title="russischer_zupfkuchen" />
+* [Rüblitorte](rueblitorte.md)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
 
@@ -89,6 +96,7 @@ Alle Rezepte
 * [Skúffukaka (isländischer Schokoladenkuchen mit Lakritz)](Skúffukaka.txt)
 * [Spritzgebäck](spritzgebaeck.md)
 * [Spätzle](Spaetzle.md)
+* [tiramisu](tiramisu.md)
 * [Tiroler Nusskuchen](tiroler_nusskuchen.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)

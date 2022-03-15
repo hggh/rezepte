@@ -12,7 +12,7 @@ Grießklößchen
 Leckere und schnell garende Grießklößchen. Zutaten sind für eine Person als Hauptspeise.
 
 ## Zutaten
-* 50 g Hart- Weichweizengrieß
+* 50 g Hart-/Weichweizengrieß
 * 125 ml Milch
 * 25 g Butter
 * 1 Ei

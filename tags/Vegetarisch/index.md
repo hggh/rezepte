@@ -4,6 +4,7 @@ Rezepte für Vegetarisch
 * [American Apple Crumble](American-Apple-Crumble.md)
 * [Apfelkuchen](Apfelkuchen.txt)
 * [Crêpes](Crepes.md)
+* [erdbeer-cupcakes](erdbeer-cupcakes.md)
 * [Feldsalat mit Honig-Senf-Dressing](Feldsalat.txt)
 
   <img src="../../pics/Feldsalat.1.jpg" width="30%" alt="Feldsalat (1): Salat vor Zugabe des Dressings (das war zu wenig, ich mußte noch etwas Dressing nachmachen)" title="Feldsalat (1):&#10;Salat vor Zugabe des Dressings&#10;(das war zu wenig, ich mußte noch&#10;etwas Dressing nachmachen)" />
@@ -44,12 +45,14 @@ Rezepte für Vegetarisch
 * [Reis/Hackfleisch/Tomaten Eintopf aka Reis-Schlonz](reis_hackfleisch_tomaten_eintopf.md)
 * [Rosenkohl-Maroni-Gemüse](Rosenkohlmaroni.txt)
 * [Rosenkohlpüree mit geschmelzten Zwiebeln](Rosenkohlpüree.txt)
+* [Rote Paprika Süßkartoffel-Suppe](Suesskartoffelsuppe.md)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Sahnebohnensuppe (vegetarisch)](Sahnebohnensuppe.txt)
 
   <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Spätzle](Spaetzle.md)
+* [tiramisu](tiramisu.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
 
