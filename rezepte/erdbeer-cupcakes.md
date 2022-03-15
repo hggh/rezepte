@@ -22,7 +22,7 @@ Dieses Rezept ergibt zwölf leckere Erdbeer-Cupcakes mit Frosting und Püree.
 * 1/2 TL Natron
 * 1/2 TL Backpulver
 * 1 Pr. Salz
-* 100 ml abgekühltes Erdbeerpüree 
+* 100 ml abgekühltes Erdbeerpüree
 * 175 g Mehl
 
 ### Frosting
