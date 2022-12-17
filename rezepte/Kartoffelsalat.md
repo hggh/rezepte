@@ -5,8 +5,8 @@ tags:
 - Beilage
 - Vegetarisch
 ---
-Kartoffelsalat
-==================================
+Kartoffelsalat (mit Curry)
+==========================
 
 Zutaten:
 ---------------
