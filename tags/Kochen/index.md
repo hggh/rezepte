@@ -20,7 +20,7 @@ Rezepte für Kochen
 * [Kartoffelsalat (mit Curry)](Kartoffelsalat.md)
 * [Kartoffelsalat (Ǟəpelschlɔ̄t, Ärpelschloot)](Ǟəpelschlɔ̄t.htm)
 
-  <img src="../../pics/%C7%9E%C9%99pelschl%C9%94%CC%84t.11.jpg" width="30%" alt="Ǟəpelschlɔ̄t (11): fertig, nur noch etwas durchziehen lassen" title="Ǟəpelschlɔ̄t (11):&#10;fertig, nur noch etwas durchziehen lassen" />
+  <img src="../../pics/%C7%9E%C9%99pelschl%C9%94%CC%84t.jpg" width="30%" alt="Ǟəpelschlɔ̄t: Kartoffelsalat (mit Gürkchen) nach Familienrezept aus der Nordeifel (hier zusätzlich mit Ei und Zwiebel)" title="Ǟəpelschlɔ̄t:&#10;Kartoffelsalat (mit Gürkchen) nach Familienrezept aus der Nordeifel&#10;(hier zusätzlich mit Ei und Zwiebel)" />
 * [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Müsli](muesli.md)
