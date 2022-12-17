@@ -1,5 +1,5 @@
-Kartoffelsalat
-==================================
+Kartoffelsalat (mit Curry)
+==========================
 
 Zutaten:
 ---------------

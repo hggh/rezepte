@@ -12,7 +12,7 @@ Rezepte von hggh
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Kartoffelgratin](Kartoffelgratin.md)
-* [Kartoffelsalat](Kartoffelsalat.md)
+* [Kartoffelsalat (mit Curry)](Kartoffelsalat.md)
 * [Käsekuchen](Käsekuchen.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)

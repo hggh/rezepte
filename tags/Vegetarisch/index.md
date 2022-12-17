@@ -23,7 +23,7 @@ Rezepte für Vegetarisch
 * [Haferkekse](Haferkekse.txt)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [Kartoffelgratin](Kartoffelgratin.md)
-* [Kartoffelsalat](Kartoffelsalat.md)
+* [Kartoffelsalat (mit Curry)](Kartoffelsalat.md)
 * [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
 * [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
 
