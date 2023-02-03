@@ -78,8 +78,18 @@ for fn in rezepte/*; do
 	("owner: "?*) ;;
 	(*) die "not in correct format (2): $fn" ;;
 	esac
-	owner=${line#owner: }
-	test -d owner/"$owner" || mkdir owner/"$owner"
+	line=${line#owner: }
+	case $line in
+	# allow space, removed below, and: .
+	(*[-!--/:-@[-\`{-]*)
+		die "control or otherwise weird character in owner '$line' in $fn"
+		;;
+	esac
+	owner=$(echo "X$line" | sed -e 's/^X//' -e 's/ //g')
+	test -d owner/"$owner" || {
+		mkdir owner/"$owner"
+		echo "X$line" | sed 's/^X//' >owner/"$owner"/.name
+	}
 	exec 5>>"$T/owner-$owner"
 	IFS= read -r line || die "not in correct format (too short): $fn"
 	case $line in
@@ -173,11 +183,13 @@ doindex() {
 }
 
 for line in owner/*; do
+	ownername=$(cat "$line"/.name)
 	line=${line#*/}
-	echo "* $(mdlink "$line" "$line/index.md")"
-	doindex "$T/owner-$line" "Rezepte von $line" >owner/"$line"/index.md
+	echo "* $(mdlink "$ownername" "$line/index.md")"
+	doindex "$T/owner-$line" "Rezepte von $ownername" >owner/"$line"/index.md
 done >"$T/owner"
 doindex "$T/owner" "Rezepte nach Eigner" >owner/index.md
+rm owner/*/.name
 
 for line in tags/*; do
 	line=${line#*/}
