@@ -1,7 +1,7 @@
 ---
 owner: toerb
 tags:
-- Nachspeise
+- Nachtisch
 - Vegetarisch
 ---
 
