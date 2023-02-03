@@ -13,6 +13,9 @@ Rezepte für Backen
   <img src="../../pics/macarons.mandeln_blanchieren_1.jpg" width="30%" alt="macarons (mandeln_blanchieren_1)" title="macarons (mandeln_blanchieren_1)" />
   <img src="../../pics/macarons.mandeln_blanchieren_2.jpg" width="30%" alt="macarons (mandeln_blanchieren_2)" title="macarons (mandeln_blanchieren_2)" />
   <img src="../../pics/macarons.schalen.jpg" width="30%" alt="macarons (schalen)" title="macarons (schalen)" />
+* [Ginger Toms](GingerToms.md)
+
+  <img src="../../pics/GingerToms.jpg" width="30%" alt="GingerToms: Isle of Wight Ginger Toms: a thick and soft gingerbread, made with real ginger" title="GingerToms:&#10;Isle of Wight Ginger Toms: a thick and soft gingerbread, made with real ginger" />
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Haferkekse](Haferkekse.txt)
 * [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)

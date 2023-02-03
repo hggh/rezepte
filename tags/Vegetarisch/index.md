@@ -13,6 +13,9 @@ Rezepte für Vegetarisch
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [Gemüsenudeln](Gemuesenudeln.md)
 * [Gemüsepfanne mit Reis](Gemüsepfanne+Reis.md)
+* [Ginger Toms](GingerToms.md)
+
+  <img src="../../pics/GingerToms.jpg" width="30%" alt="GingerToms: Isle of Wight Ginger Toms: a thick and soft gingerbread, made with real ginger" title="GingerToms:&#10;Isle of Wight Ginger Toms: a thick and soft gingerbread, made with real ginger" />
 * [griesskloesschen](griesskloesschen.md)
 * [Grießpudding (semolina pudding)](Grießpudding.txt)
 
@@ -52,7 +55,7 @@ Rezepte für Vegetarisch
   <img src="../../pics/Sahnebohnensuppe.jpg" width="30%" alt="Sahnebohnensuppe" title="Sahnebohnensuppe" />
 * [Sauerteig (Weizen, einfach, TA 150)](Sauerteig.txt)
 * [Spätzle](Spaetzle.md)
-* [tiramisu](tiramisu.md)
+* [Tiramisu](tiramisu.md)
 * [Uncle Bubba’s Peanut Butter Soup](groundnut_stew.txt)
 * [Waffeln (Apfel-Hafer-Vollkorn)](Waffeln_Apfel-Hafer-Vollkorn.md)
 

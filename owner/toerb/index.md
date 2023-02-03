@@ -29,7 +29,7 @@ Rezepte von toerb
 * [Schwedische Zimtschnecken (Kanelbullar)](schwedische_zimtschnecken.md)
 * [Spritzgebäck](spritzgebaeck.md)
 * [Spätzle](Spaetzle.md)
-* [tiramisu](tiramisu.md)
+* [Tiramisu](tiramisu.md)
 * [Waffeln (belgische Hefewaffeln)](hefewaffeln.md)
 * [Zebrakuchen](zebrakuchen.md)
 * [Zitronenlimonade](zitronenlimonade.md)
