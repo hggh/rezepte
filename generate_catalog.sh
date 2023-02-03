@@ -1,6 +1,6 @@
 #!/bin/sh
 #-
-# Copyright © 2020
+# Copyright © 2020, 2023
 #	mirabilos <m@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
@@ -97,6 +97,11 @@ for fn in rezepte/*; do
 		(*) die "not in correct format (tag $line): $fn" ;;
 		esac
 		line=${line#- }
+		case $line in
+		(*[-/:-@[-\`{-]*)
+			die "control or otherwise weird character in tag '$line' in $fn"
+			;;
+		esac
 		test -d tags/"$line" || mkdir tags/"$line"
 		set -- "$@" "$line"
 	done
