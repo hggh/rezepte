@@ -12,7 +12,7 @@ Zutaten Teig:
  * 200&nbsp;g Butter in Stücken
  * 100&nbsp;g Zucker
  * 350&nbsp;g Mehl
- * 30&nbsp;g Kakaopulver
+ * 30&nbsp;g Kakaopulver (sieben!)
  * 1&nbsp;Pck. Backpulver
  * 1&nbsp;Ei
 
