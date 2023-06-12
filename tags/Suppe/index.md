@@ -1,6 +1,7 @@
 Rezepte für Suppe
 =====================
 
+* [Knoblauchsuppe](Knoblauchsuppe.txt)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 

@@ -52,6 +52,7 @@ Alle Rezepte
 * [Knoblauch-Brot mit Frühlingszwiebeln](Knoblauchbrot.txt)
 
   <img src="../pics/Knoblauchbrot.jpg" width="30%" alt="Knoblauchbrot" title="Knoblauchbrot" />
+* [Knoblauchsuppe](Knoblauchsuppe.txt)
 * [kuerbislasagne](kuerbislasagne.md)
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)

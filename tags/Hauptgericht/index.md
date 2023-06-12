@@ -7,6 +7,7 @@ Rezepte für Hauptgericht
 * [gefüllte Paprika](gefuellte_paprika.md)
 * [griesskloesschen](griesskloesschen.md)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
+* [Knoblauchsuppe](Knoblauchsuppe.txt)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Noodles with twice meat](Noodles-twice-meat.txt)
 

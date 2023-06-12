@@ -22,6 +22,7 @@ Rezepte für Kochen
 
   <img src="../../pics/%C7%9E%C9%99pelschl%C9%94%CC%84t.jpg" width="30%" alt="Ǟəpelschlɔ̄t: Kartoffelsalat (mit Gürkchen) nach Familienrezept aus der Nordeifel (hier zusätzlich mit Ei und Zwiebel)" title="Ǟəpelschlɔ̄t:&#10;Kartoffelsalat (mit Gürkchen) nach Familienrezept aus der Nordeifel&#10;(hier zusätzlich mit Ei und Zwiebel)" />
 * [kaszę gryczaną (Buchweizengrütze, buckwheat groats)](kaszę_gryczaną.txt)
+* [Knoblauchsuppe](Knoblauchsuppe.txt)
 * [Möhrensuppe](Moehrensuppe.md)
 * [Müsli](muesli.md)
 * [Noodles with twice meat](Noodles-twice-meat.txt)
