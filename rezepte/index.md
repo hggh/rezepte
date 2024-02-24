@@ -40,6 +40,7 @@ Alle Rezepte
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
 * [Haferflockenbollen](Haferflockenbollen.md)
 * [Haferkekse](Haferkekse.txt)
+* [Hot toddy](hot_toddy.txt)
 * [Hähnchenkeulen Tomaten Kartoffeln](haehnchen-tomaten-kartoffeln-backofen.md)
 * [Ingwerdressing für Salat (ginger dressing for salad)](Ingwerdressing.txt)
 * [johannisbeer_baiser_kuchen](johannisbeer_baiser_kuchen.md)
@@ -57,6 +58,7 @@ Alle Rezepte
 * [kuerbismarmelade](kuerbismarmelade.md)
 * [kuerbissuppe](kuerbissuppe.md)
 * [Käsekuchen](Käsekuchen.md)
+* [Linzertorte](Linzertorte.md)
 * [Muffins Schokolade mit Banane Vegan](vegan_schoki_bananen_muffins.md)
 * [Muffins Schokolade Vegan](muffin_schokolade_vegan.md)
 * [Möhrensuppe](Moehrensuppe.md)
@@ -65,6 +67,7 @@ Alle Rezepte
 * [Noodles with twice meat](Noodles-twice-meat.txt)
 
   <img src="../pics/Noodles-twice-meat.jpg" width="30%" alt="Noodles-twice-meat" title="Noodles-twice-meat" />
+* [Nussecken](Nussecken.md)
 * [Overnight-Oats](Overnight-Oats.txt)
 * [Paprikagemüse mit Reis](Paprikagemüse.txt)
 

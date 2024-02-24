@@ -1,6 +1,7 @@
 Rezepte für Getränk
 =====================
 
+* [Hot toddy](hot_toddy.txt)
 * [Safranmilch (saffron milk)](Safranmilch.txt)
 * [Winter Solstice + Yule Brew](Solstice+Yule_Brew.txt)
 

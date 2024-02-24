@@ -7,6 +7,8 @@ Rezepte für Nuss
   <img src="../../pics/Feldsalat.2.jpg" width="30%" alt="Feldsalat (2): Salat mit Dressing vermischt" title="Feldsalat (2):&#10;Salat mit Dressing vermischt" />
 * [Gebrannte Mandeln](gebrannte_mandeln.md)
 * [Haferbratlinge mit Kidneybohnen](Haferbratlinge.txt)
+* [Linzertorte](Linzertorte.md)
+* [Nussecken](Nussecken.md)
 * [Overnight-Oats](Overnight-Oats.txt)
 * [Porridge „zuhause“](Porridge.txt)
 * [Rüblitorte](rueblitorte.md)

@@ -12,7 +12,7 @@ Zutaten:
  * 1 Würfel Hefe
  * 6 Eier
  * 2 Packungen Vanillezucker
- * 200 g Hagelzucker
+ * 200 g Hagelzucker (wichtig! - kein anderer Zucker)
 
 Zubereitung:
 ----------------
