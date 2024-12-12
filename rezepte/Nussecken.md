@@ -11,28 +11,34 @@ Nussecken
 
 Zutaten Teig:
 -------------
- * 125g Butter
- * 90g Zucker (war 100g)
- * 2 Eier
- * 300g Mehl
- * 1 TL Backpulver
- * 1 Pck. Vanillezucker
+ * 130g Butter oder Margarine
+ * 100g 	Zucker
+ * 2 	Ei(er)
+ * 300 g 	Mehl
+ * 1 TL, gestr. 	Backpulver
+ * 4 EL Aprikosenkonfitüre (nicht in den Teig, auf den ausgerollen Teig, zwischen Belag)
 
 Zutaten Belag:
 ----------------
- * 200g Aprikosenmarmelade
- * 175g Butter
- * 110g Zucker (war 130g)
- * 1 Pck. Vanillezucker
- * 400g gemahlene Nüsse (200g gemahlen, 200g gehackte)
- * 4 EL Wasser
- * 200g Zartbitterkuvertüre
+ * 200g Butter oder Margarine
+ * 200g 	Zucker
+ * 2 Pkt. 	Vanillezucker
+ * 200g 	Haselnüsse, gemahlen
+ * 200g 	Haselnüsse, gehackt
+ * 4 EL 	Wasser
+
+Kuchenglasur:
+----------------
+* 70% mild. Schokolade
 
 Zubereitung Teig:
 ------------
 
-Für den Teig Butter, Zucker, Vanillezucker und Eier miteinander verkneten. Mehl, Backpulver miteinander vermischen und mit dem restlichen Teig verkneten.
-Teig in das Backblech geben und zurecht drücken, damit ein ebener Boden entsteht (Alternativ mit dem Nudelholz ausrollen und dann reinlegen).
+Mehl mit Backpulver vermischen.
+
+Zutaten nacheinander vermischen und ggf mit Knethaken verrühren.
+
+Den Teig auf Backpapier und gefetteten Rand auf ein Blech streichen/ausrollen.
 
 
 Zubereitung Belag:
@@ -40,16 +46,16 @@ Zubereitung Belag:
 
 Für den Belag Aprikosenmarmelade mit einem Löffel auf dem Teig verteilen und glattstreichen.
 
-Butter, Zucker und Vanillezucker in einem Topf schmelzen. Gemahlene Nüsse und 4 EL Wasser hinzugeben und unter ständigem Rühren kurz köcheln lassen,
-sodass eine feuchte Masse entsteht. Nussmasse auf dem Blech verteilen und ebenfalls glatt streichen.
+Butter, Zucker und Vanillinzucker erhitzen, bis der Zucker sich gelöst hat.
+Nüsse zusammen mit Wasser unter die Butter-Zucker-Masse rühren. Auf den Teig geben.
 
-Nussecken im vorgeheizten Ofen circa 25-27 Minuten backen (175° C Ober-/Unterhitze).
-Kurz abkühlen lassen. Den noch warmen Kuchen in Ecken schneiden.
-Dazu in Quadrate schneiden und diese dann über die Ecken halbieren. Ecken vollständig auskühlen lassen.
 
-Zubereitung Zartbitterkuvertüre:
-----------------
+Backen:
+---------------
+Bei 175° C Ober-/Unterhitze im vorgeheizten Backofen ca. 25 Minuten backen. 
+Noch warm zunächst in Rechtecke, dann in Dreiecke schneiden.
 
-Zartbitterkuvertüre grob hacken und im Wasserbad schmelzen.
-In ein kleines, hohes Gefäß umfüllen. Nussecken aus der Form neben und die spitzen Ecken jeweils in die Schokolade tunken.
-Ecken dann auf ein Backpapier legen und die Schokolade trocknen lassen.
+Wenn komplett abgelühlt die Ecken in Kuvertüre bzw. Schokoladenglasur tauchen. 
+
+
+
