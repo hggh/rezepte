@@ -16,10 +16,10 @@ Zutaten Teig:
  * 2 	Ei(er)
  * 300 g 	Mehl
  * 1 TL, gestr. 	Backpulver
- * 4 EL Aprikosenkonfitüre (nicht in den Teig, auf den ausgerollen Teig, zwischen Belag)
 
 Zutaten Belag:
 ----------------
+ * 4 EL Aprikosenkonfitüre (zwischenschicht Teig/Belag)
  * 200g Butter oder Margarine
  * 200g 	Zucker
  * 2 Pkt. 	Vanillezucker
