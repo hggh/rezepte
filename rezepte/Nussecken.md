@@ -21,7 +21,7 @@ Zutaten Belag:
 ----------------
  * 4 EL Aprikosenkonfitüre (zwischenschicht Teig/Belag)
  * 200g Butter oder Margarine
- * 200g 	Zucker
+ * 200g Zucker (ggf. 50% brauner Zucker)
  * 2 Pkt. 	Vanillezucker
  * 200g 	Haselnüsse, gemahlen
  * 200g 	Haselnüsse, gehackt
