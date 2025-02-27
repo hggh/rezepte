@@ -52,10 +52,7 @@ Nüsse zusammen mit Wasser unter die Butter-Zucker-Masse rühren. Auf den Teig g
 
 Backen:
 ---------------
-Bei 175° C Ober-/Unterhitze im vorgeheizten Backofen ca. 25 Minuten backen. 
+Bei 175° C Ober-/Unterhitze im vorgeheizten Backofen ca. 25 Minuten backen.
 Noch warm zunächst in Rechtecke, dann in Dreiecke schneiden.
 
-Wenn komplett abgelühlt die Ecken in Kuvertüre bzw. Schokoladenglasur tauchen. 
-
-
-
+Wenn komplett abgelühlt die Ecken in Kuvertüre bzw. Schokoladenglasur tauchen.
